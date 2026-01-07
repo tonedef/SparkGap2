@@ -108,6 +108,7 @@
 	(net 28 "Net-(R13-Pad2)")
 	(net 29 "Net-(J2-Pad1N)")
 	(net 30 "Net-(J3-Pad2)")
+	(net 31 "Net-(D3-A)")
 	(footprint "SamacSys_Parts:potentiometer_vert_no_switch"
 		(layer "F.Cu")
 		(uuid "07651200-5aff-49b9-bf70-1ccfa46ff847")
@@ -7005,7 +7006,7 @@
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "A")
+			(net 31 "Net-(D3-A)")
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "038f0c1d-dd3f-4915-83c8-fb8436a0de13")
@@ -8150,7 +8151,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -8163,7 +8164,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1A General Purpose Rectifier Diode, DO-41"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -12993,6 +12994,216 @@
 			)
 		)
 	)
+	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(layer "B.Cu")
+		(uuid "5374aec0-5ed8-40a4-9fa5-25ca1abca822")
+		(at 85.3 102.1 150)
+		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
+		(property "Reference" "R14"
+			(at 3.849877 0.17292 150)
+			(layer "B.SilkS")
+			(uuid "debf2097-10f1-4d4e-8fd2-22eb1a334aba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1k"
+			(at 3.81 -2.37 150)
+			(layer "B.Fab")
+			(uuid "0537c257-0185-4138-9934-51bdc33048df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 150)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15a7d270-38e4-4393-8325-454c341021a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 0 0 150)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3ea52ad5-4bf2-4e12-8c82-17a9445aaef4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/4530a412-8d55-44ca-844e-4ceb1b71e6a8")
+		(sheetname "/")
+		(sheetfile "sparkGap2.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 7.080002 -1.370001)
+			(end 7.08 -1.04)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f715be5d-44a1-4c8e-8e3a-d0985bd238fc")
+		)
+		(fp_line
+			(start 7.08 1.369999)
+			(end 7.08 1.040001)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "7dedc723-035c-4dc4-80d6-0181cdb5dce3")
+		)
+		(fp_line
+			(start 0.540001 -1.370002)
+			(end 7.080002 -1.370001)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "fd4ea487-85c3-41d1-9dcd-38b4ed2ef388")
+		)
+		(fp_line
+			(start 0.54 -1.039999)
+			(end 0.540001 -1.370002)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f5d3c30e-c22c-4a93-ada1-b4540393bae6")
+		)
+		(fp_line
+			(start 0.540001 1.039999)
+			(end 0.539998 1.369999)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "6a9173dd-63fe-49ed-aa9e-ce6446e7f57b")
+		)
+		(fp_line
+			(start 0.539998 1.369999)
+			(end 7.08 1.369999)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f6113484-868a-499b-b4e8-4bdd298deaa3")
+		)
+		(fp_poly
+			(pts
+				(xy -1.049999 1.499999) (xy -1.050001 -1.500001) (xy 8.670001 -1.5) (xy 8.670002 1.500001)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "20329e8e-4886-404b-b3ad-4017faf3c7df")
+		)
+		(fp_line
+			(start 7.620001 0.000002)
+			(end 6.960001 -0.000001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0368178f-4b80-4086-89b6-688d01037628")
+		)
+		(fp_line
+			(start 0 0)
+			(end 0.659998 0.000001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "efb42f0d-9763-4b8f-bc09-bbdd36db96a3")
+		)
+		(fp_poly
+			(pts
+				(xy 0.66 1.25) (xy 0.659999 -1.25) (xy 6.960001 -1.249999) (xy 6.960003 1.25)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "B.Fab")
+			(uuid "0309eb6d-0119-4f82-94c1-0dd6a8db026c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 3.81 -0.000001 150)
+			(layer "B.Fab")
+			(uuid "068a67aa-7047-484d-807c-c658a9804405")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 150)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 31 "Net-(D3-A)")
+			(pintype "passive")
+			(uuid "c20e8273-5577-4ced-95f0-92d3cbae1c05")
+		)
+		(pad "2" thru_hole circle
+			(at 7.620001 0.000002 150)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 2 "A")
+			(pintype "passive")
+			(uuid "a819b896-3c1d-4510-b98e-d4bdd21870a4")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "B.Cu")
 		(uuid "5dd7955e-8700-40d9-9a07-0fe4ebd33258")
@@ -16196,7 +16407,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16209,7 +16420,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16951,7 +17162,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16964,7 +17175,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -17177,7 +17388,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -17190,7 +17401,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -26013,14 +26224,6 @@
 		(uuid "03d57322-713d-4b5d-ada5-45267c37604a")
 	)
 	(segment
-		(start 83.366473 96.591022)
-		(end 78.851952 96.591022)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "0e9d46c3-48c8-4539-89cc-e3911afaa770")
-	)
-	(segment
 		(start 121.432621 98.223985)
 		(end 121.432621 98.6)
 		(width 1)
@@ -26109,28 +26312,20 @@
 		(uuid "d65a6571-2f8a-434d-8c9e-8ba024f4988a")
 	)
 	(segment
+		(start 76.324901 94.063971)
+		(end 78.7 98.2)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "dff12ac7-4a39-4c27-85ab-b119cd079616")
+	)
+	(segment
 		(start 120.175428 96.966792)
 		(end 121.432621 98.223985)
 		(width 1)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "e6bd9839-3fd6-4ec1-979d-e55311be0fc3")
-	)
-	(segment
-		(start 78.851952 96.591022)
-		(end 76.324901 94.063971)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "ff7051a7-844f-4b9b-bc6e-f96473b56176")
-	)
-	(segment
-		(start 85.4 98.624549)
-		(end 83.366473 96.591022)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "ffc280d3-e000-4083-9738-ebd3b4245b49")
 	)
 	(segment
 		(start 77.09 114.1)
@@ -26573,6 +26768,14 @@
 		(uuid "efbeafa2-9504-41c8-958a-11faa02002fd")
 	)
 	(segment
+		(start 79.8 99.6)
+		(end 82.9 98.7)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 8)
+		(uuid "0095772a-1b74-4ba2-adc2-ac82e54af204")
+	)
+	(segment
 		(start 107.199048 98.581302)
 		(end 107.317746 98.7)
 		(width 0.25)
@@ -26587,14 +26790,6 @@
 		(layer "F.Cu")
 		(net 8)
 		(uuid "093cde79-e069-442c-8535-c2eee8e1978a")
-	)
-	(segment
-		(start 80.247669 98.624549)
-		(end 75.873901 94.250781)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 8)
-		(uuid "210f55ab-3921-4b50-a45c-d0e1872f2f48")
 	)
 	(segment
 		(start 84.858662 79)
@@ -26619,6 +26814,14 @@
 		(layer "F.Cu")
 		(net 8)
 		(uuid "3533c6a0-f9eb-49d3-97ab-d19dfcb8f0dc")
+	)
+	(segment
+		(start 75.873901 94.250781)
+		(end 77.3 99.6)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 8)
+		(uuid "40acd58a-9f7c-46b2-8038-d7301e664b84")
 	)
 	(segment
 		(start 108.481095 87.026665)
@@ -26741,12 +26944,12 @@
 		(uuid "c9c60577-bbe1-4c5f-a403-e03b9a3c9e9f")
 	)
 	(segment
-		(start 82.86 98.624549)
-		(end 80.247669 98.624549)
+		(start 77.3 99.6)
+		(end 79.8 99.6)
 		(width 0.25)
 		(layer "F.Cu")
 		(net 8)
-		(uuid "e35de39f-0897-4a7b-8510-dba210860fa7")
+		(uuid "e1b8e113-f66f-429c-9f4e-c85e433180ed")
 	)
 	(segment
 		(start 117.019098 98.7)
@@ -28427,6 +28630,14 @@
 		(layer "B.Cu")
 		(net 30)
 		(uuid "ad300b04-4e95-4a0e-945f-e434c886a09a")
+	)
+	(segment
+		(start 85.3 102.1)
+		(end 85.4 98.6)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 31)
+		(uuid "47452c51-ef06-4ccf-a1ff-7436e36a3218")
 	)
 	(zone
 		(net 1)

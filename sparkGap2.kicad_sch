@@ -4203,7 +4203,7 @@
 	)
 	(global_label "A"
 		(shape input)
-		(at 250.19 78.74 90)
+		(at 250.19 73.66 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4211,9 +4211,9 @@
 			)
 			(justify left)
 		)
-		(uuid "7df083f0-0c74-4f84-a098-aaf71ea0756d")
+		(uuid "7a645394-b09b-43e1-967f-ac97bf7cd342")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 250.19 74.6662 90)
+			(at 250.19 69.5862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5401,6 +5401,76 @@
 			(project "sparkGap2"
 				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 250.19 76.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4530a412-8d55-44ca-844e-4ceb1b71e6a8")
+		(property "Reference" "R14"
+			(at 252.73 74.9299 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 252.73 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d578398c-aba3-43be-bc27-2b4e0e0db854")
+		)
+		(pin "1"
+			(uuid "d100ce44-6539-4ddd-aa08-a22a0d02a7e9")
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "R14")
 					(unit 1)
 				)
 			)
