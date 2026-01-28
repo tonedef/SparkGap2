@@ -4319,7 +4319,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0678f58f-a7db-4bdb-9826-b29eefdb5f23")
 		(property "Reference" "J2"
 			(at 38.735 114.3 0)
@@ -4475,7 +4475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 81.28 69.85 0)
 			(effects
 				(font
@@ -4652,6 +4652,91 @@
 		)
 	)
 	(symbol
+		(lib_id "RCA_Valve:EB91")
+		(at 153.67 123.19 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17cf0653-acec-4e5c-8f95-dc6856b653ba")
+		(property "Reference" "V2"
+			(at 161.29 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "EB91"
+			(at 161.29 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
+			(at 153.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "9be67efb-6c8f-4c40-b8e7-9c8a94b39089")
+		)
+		(pin "4"
+			(uuid "3ba909f9-2df6-4c44-86e7-caf039a1a07f")
+		)
+		(pin "1"
+			(uuid "dd6ae378-93e2-4760-b9e4-a471c38d24ca")
+		)
+		(pin "3"
+			(uuid "7c7fb584-b209-4189-a1ab-b90ba58ebd09")
+		)
+		(pin "6"
+			(uuid "f4d2f053-7b4c-4fac-b65b-7a6ef3792508")
+		)
+		(pin "5"
+			(uuid "766b36a0-bb83-4553-a5e8-33a0f7d1ac69")
+		)
+		(pin "2"
+			(uuid "92e928a7-ab47-4ea3-9225-22c8754501e4")
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "V2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 107.95 121.92 270)
 		(unit 1)
@@ -4676,7 +4761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 107.95 121.92 0)
 			(effects
 				(font
@@ -4813,7 +4898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp"
 			(at 90.17 77.47 0)
 			(effects
 				(font
@@ -5255,91 +5340,6 @@
 		)
 	)
 	(symbol
-		(lib_id "RCA_Valve:EB91")
-		(at 153.67 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "34c47529-d509-495c-ad2b-fa96493f53ce")
-		(property "Reference" "V2"
-			(at 161.29 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "EB91"
-			(at 161.29 124.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Valves_complete:B7G (7 Pin Mini) Dual Use"
-			(at 153.67 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.67 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "1bd9e1b1-159d-4c91-a8d6-349b0254bc19")
-		)
-		(pin "4"
-			(uuid "3ba909f9-2df6-4c44-86e7-caf039a1a07f")
-		)
-		(pin "1"
-			(uuid "3955d714-eeae-4a51-b029-164f75a3723d")
-		)
-		(pin "3"
-			(uuid "7c7fb584-b209-4189-a1ab-b90ba58ebd09")
-		)
-		(pin "6"
-			(uuid "f26d3f84-6b2d-4414-bc3b-91bacfa507d4")
-		)
-		(pin "5"
-			(uuid "000e4337-b998-4a6f-ad45-6966e754c366")
-		)
-		(pin "2"
-			(uuid "1481bb6c-be84-424a-a315-bd04a11ff324")
-		)
-		(instances
-			(project ""
-				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
-					(reference "V2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 55.88 85.09 0)
 		(unit 1)
@@ -5434,7 +5434,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 250.19 76.2 0)
 			(effects
 				(font
@@ -5483,7 +5483,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "47cf991b-730d-49bd-8b2b-b56a9ada83a8")
 		(property "Reference" "J1"
@@ -5773,7 +5773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 80.01 107.95 0)
 			(effects
 				(font
@@ -5892,7 +5892,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "628150bf-664d-4f88-a185-e6aed5a35316")
 		(property "Reference" "SW1"
@@ -6107,16 +6107,16 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 250.19 82.55 90)
+		(at 250.19 82.55 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "699a6731-88d0-47fa-84d8-011e1096b0d9")
 		(property "Reference" "D3"
-			(at 254 82.8674 90)
+			(at 255.524 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6125,7 +6125,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 254 85.4074 90)
+			(at 255.524 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6561,7 +6561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 66.04 107.95 0)
 			(effects
 				(font
@@ -6631,7 +6631,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 195.58 113.03 0)
 			(effects
 				(font
@@ -6703,7 +6703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Valves_complete:B7G (7 Pin Mini) Dual Use"
+		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
 			(at 67.31 73.66 0)
 			(effects
 				(font
@@ -6911,7 +6911,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "90106e05-ee57-4024-964d-3d84348c5c16")
 		(property "Reference" "SW1"
@@ -7085,7 +7085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 242.57 86.36 0)
 			(effects
 				(font
@@ -7173,7 +7173,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 205.74 135.89 0)
 			(effects
 				(font
@@ -7299,7 +7299,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "47k"
 			(at 144.78 101.6 90)
 			(effects
 				(font
@@ -7377,7 +7377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 113.03 124.46 0)
 			(effects
 				(font
@@ -7421,7 +7421,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 153.67 132.08 0)
+		(at 153.67 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7430,7 +7430,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5aaf723-8f22-432d-b146-d957463d63f0")
 		(property "Reference" "#PWR012"
-			(at 153.67 138.43 0)
+			(at 153.67 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7439,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 153.67 137.16 0)
+			(at 153.67 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7448,7 +7448,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 132.08 0)
+			(at 153.67 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7457,7 +7457,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 132.08 0)
+			(at 153.67 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7466,7 +7466,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 153.67 132.08 0)
+			(at 153.67 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7564,7 +7564,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c49d4fee-beb4-48f4-a353-36d9c9323ef0")
 		(property "Reference" "SW2"
@@ -7788,7 +7788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 229.87 111.76 0)
 			(effects
 				(font
@@ -7998,7 +7998,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 205.74 109.22 0)
 			(effects
 				(font
@@ -8203,7 +8203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 71.12 101.6 0)
 			(effects
 				(font
@@ -8271,7 +8271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 73.66 77.47 0)
 			(effects
 				(font
@@ -8449,16 +8449,16 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 250.19 90.17 90)
+		(at 250.19 90.17 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e8927363-e47b-42c9-b04c-29b1ccdd5651")
 		(property "Reference" "D4"
-			(at 254 90.4874 90)
+			(at 255.524 89.154 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +8467,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 254 93.0274 90)
+			(at 255.524 91.694 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8624,7 +8624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 121.92 104.14 0)
 			(effects
 				(font
@@ -8673,7 +8673,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ed4a79b0-a623-4eff-94df-e2035cbd5200")
 		(property "Reference" "J3"
 			(at 260.985 124.46 0)
@@ -8764,7 +8764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Valves_complete:B7G (7 Pin Mini) Dual Use"
+		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
 			(at 128.27 123.19 0)
 			(effects
 				(font
@@ -9003,7 +9003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Valves_complete:B7G (7 Pin Mini) Dual Use"
+		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
 			(at 67.31 81.28 0)
 			(effects
 				(font

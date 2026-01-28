@@ -1,6 +1,26 @@
 {
   "board": {
-    "3dviewports": [],
+    "3dviewports": [
+      {
+        "name": "pedalAngle",
+        "ww": 1.0,
+        "wx": -39.306365966796875,
+        "wy": -5.876472473144531,
+        "wz": -24.99709129333496,
+        "xw": 0.0,
+        "xx": 0.5706702470779419,
+        "xy": 0.6249380111694336,
+        "xz": -0.532715916633606,
+        "yw": 0.0,
+        "yx": -0.805120587348938,
+        "yy": 0.553459107875824,
+        "yz": -0.21322001516819,
+        "zw": 0.0,
+        "zx": 0.16158346831798553,
+        "zy": 0.55057293176651,
+        "zz": 0.8189996480941772
+      }
+    ],
     "design_settings": {
       "defaults": {
         "apply_defaults_to_fp_fields": false,
@@ -37,9 +57,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.5,
-          "height": 4.5,
-          "width": 4.5
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,47 +80,23 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|115824549|81499549|aecc9774-8ee7-4a4b-8870-0d23a80a3f47|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|116700000|91129289|cf0957f1-9c0c-4ea4-b117-7d878d3061d0|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|122200000|97900000|06d32fd5-a423-4300-910f-2e7f2f812165|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|138400000|81367621|222e1c40-a59a-4c37-95e7-e700e1deb2f4|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|77700000|98500000|f1bdeb72-a990-4b03-823d-f7ff5ce2766b|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|160957500|98500000|39dcbbd9-260f-4a6c-880e-8ab9844c3bc6|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|82000442|83194999|5374aec0-5ed8-40a4-9fa5-25ca1abca822|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|122470000|73954289|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|84175451|81499549|cca67837-cd3b-44f0-b495-bb519d31063c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|87500000|106510000|e220a8de-b91e-4848-9553-3cbaea6739e7|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "net_conflict|124950000|64575000|f90240b8-8585-4af0-ae54-5f01a45fa068|00000000-0000-0000-0000-000000000000",
-          "this happens at the TR socket, not the PCB"
-        ],
-        [
-          "net_conflict|74850000|64425000|d36313ce-a209-4f9f-be1c-4b8359eb574b|00000000-0000-0000-0000-000000000000",
-          "this happens at the TR socket, not the PCB"
-        ],
-        [
-          "text_thickness|104870880|120400000|7b23c0bc-260d-48f7-9da6-4746525af723|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|105000000|119500000|58c10f10-5ce4-401d-9679-933c7361acc1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|81800000|120400000|7d20fc81-582e-4b97-b103-4e0999c3be0c|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|161878181|83379266|f434a16b-f431-4b9a-a724-cd55ec272bea|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -652,12 +648,36 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
