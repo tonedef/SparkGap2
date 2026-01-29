@@ -1,4 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BOARD_MOUNT_1, BOARD_MOUNT_2",B9A-shield-single-mount,2,B9A-shield-single-mount,
 "C1, C3",CP_Radial_D10.0mm_P5.00mm,2,1000u,
 "C10, C8",C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,2,4.7n,
 "C11, C12, C7",C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,3,100n,
