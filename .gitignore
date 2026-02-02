@@ -1,3 +1,4 @@
+*.lck
 *-backups/
 production/backups/
 fp-info-cache

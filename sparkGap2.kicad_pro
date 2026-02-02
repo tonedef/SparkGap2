@@ -76,9 +76,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 2.9,
+          "height": 5.0,
+          "width": 5.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -99,20 +99,20 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|116700000|91129289|cf0957f1-9c0c-4ea4-b117-7d878d3061d0|00000000-0000-0000-0000-000000000000",
-          ""
+          "lib_footprint_mismatch|22700000|60100000|cf0957f1-9c0c-4ea4-b117-7d878d3061d0|00000000-0000-0000-0000-000000000000",
+          "moved \"+\" to not overlap"
         ],
         [
-          "lib_footprint_mismatch|138400000|81367621|222e1c40-a59a-4c37-95e7-e700e1deb2f4|00000000-0000-0000-0000-000000000000",
-          ""
+          "lib_footprint_mismatch|44400000|50338332|222e1c40-a59a-4c37-95e7-e700e1deb2f4|00000000-0000-0000-0000-000000000000",
+          "moved \"+\" to not overlap"
         ],
         [
-          "lib_footprint_mismatch|160957500|98500000|39dcbbd9-260f-4a6c-880e-8ab9844c3bc6|00000000-0000-0000-0000-000000000000",
-          ""
+          "lib_footprint_mismatch|46400000|75670711|ab98ca5f-073c-47e9-bbb4-aa018882c0c1|00000000-0000-0000-0000-000000000000",
+          "This is just for PCB layout"
         ],
         [
-          "silk_over_copper|122470000|73954289|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
-          ""
+          "silk_over_copper|28470000|42925000|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
+          "mount hole for pot. should be fine"
         ]
       ],
       "meta": {
