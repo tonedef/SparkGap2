@@ -4317,7 +4317,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "0678f58f-a7db-4bdb-9826-b29eefdb5f23")
@@ -5481,7 +5481,7 @@
 		(at 38.1 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -5903,12 +5903,13 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "6-pin Footswitch"
 			(at 54.61 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:DPDT"
@@ -6922,12 +6923,13 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "6-pin Footswitch"
 			(at 237.49 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:DPDT"
@@ -7568,7 +7570,7 @@
 		(fields_autoplaced yes)
 		(uuid "c49d4fee-beb4-48f4-a353-36d9c9323ef0")
 		(property "Reference" "SW1"
-			(at 133.35 107.9499 90)
+			(at 133.35 109.2199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7576,13 +7578,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "pp"
+		(property "Value" "SPST"
 			(at 133.35 110.4899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
@@ -8671,7 +8674,7 @@
 		(at 260.35 115.57 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "ed4a79b0-a623-4eff-94df-e2035cbd5200")
