@@ -4738,7 +4738,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 107.95 121.92 270)
+		(at 107.95 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4746,7 +4746,7 @@
 		(dnp no)
 		(uuid "18a31a5d-2a9c-4ad2-85eb-8c29396e07d7")
 		(property "Reference" "R4"
-			(at 107.95 127 90)
+			(at 107.95 125.73 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -4754,7 +4754,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 107.95 124.46 90)
+			(at 107.95 123.952 90)
 			(effects
 				(font
 					(size 1.27 1.27)
