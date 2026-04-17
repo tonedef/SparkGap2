@@ -1547,6 +1547,88 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_SparkFun-Hardware:Standoff"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "ST"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "Standoff"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "PCM_SparkFun-Hardware:Standoff"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SparkFun #4 screw stand off"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Fiducial*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Standoff_1_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "RCA_Valve:EB91"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2096,201 +2178,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:AudioJack2_Switch"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -0.635 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "~"
-				(at -1.016 7.112 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-				(at -0.762 11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
-				(at -0.762 -7.112 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "audio jack receptacle mono connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jack*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "AudioJack2_Switch_0_1"
-				(rectangle
-					(start -3.81 -1.27)
-					(end -2.54 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -2.286 4.572)
-					(end 2.54 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -1.27) (xy -1.27 -1.905) (xy -0.635 -1.27) (xy -0.635 3.81) (xy 2.54 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0.635 -1.905) (xy 1.27 -1.27) (xy 2.54 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 3.556) (xy 0.762 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy 0.508 1.27) (xy 0.508 3.556) (xy 0.254 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "AudioJack2_Switch_1_1"
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 1.27 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1N"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -1.27 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SamacSys_Parts:DPDT"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2499,6 +2386,195 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:Jack2_off_board_Switch"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -0.635 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "~"
+				(at -1.016 7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+				(at -0.762 11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
+				(at -0.762 -7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "audio jack receptacle mono connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jack*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Jack2_off_board_Switch_0_1"
+				(rectangle
+					(start -3.81 -1.27)
+					(end -2.54 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -2.286 4.572)
+					(end 2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -1.27) (xy -1.27 -1.905) (xy -0.635 -1.27) (xy -0.635 3.81) (xy 2.54 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0.635 -1.905) (xy 1.27 -1.27) (xy 2.54 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 3.556) (xy 0.762 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy 0.508 1.27) (xy 0.508 3.556) (xy 0.254 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Jack2_off_board_Switch_1_1"
+				(pin passive line
+					(at 5.08 3.81 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -1.27 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3112,12 +3188,6 @@
 		(uuid "3e1c6f9d-cebc-4cf5-a464-1108475e5630")
 	)
 	(junction
-		(at 49.53 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e65878f-c023-4254-a8fa-eb420871c9fa")
-	)
-	(junction
 		(at 130.81 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3182,6 +3252,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a148f431-c4f4-4979-9b70-31f9db7d362d")
+	)
+	(junction
+		(at 49.53 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2e33b87-1a9a-4a23-a2ac-7ddbe04af257")
 	)
 	(junction
 		(at 157.48 104.14)
@@ -3657,16 +3733,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 106.68) (xy 49.53 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "669b49b8-9edf-49dd-b9e3-795d47513c73")
-	)
-	(wire
-		(pts
 			(xy 104.14 74.93) (xy 104.14 69.85)
 		)
 		(stroke
@@ -3854,6 +3920,16 @@
 			(type default)
 		)
 		(uuid "ad0bcaba-cf9b-4ebb-8674-dea66d4c3dbe")
+	)
+	(wire
+		(pts
+			(xy 44.45 106.68) (xy 49.53 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adc62457-4b33-43b4-af90-b6634acc0d8a")
 	)
 	(wire
 		(pts
@@ -4312,12 +4388,12 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:AudioJack2_Switch")
+		(lib_id "SamacSys_Parts:Jack2_off_board_Switch")
 		(at 39.37 105.41 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "0678f58f-a7db-4bdb-9826-b29eefdb5f23")
@@ -4366,9 +4442,6 @@
 		)
 		(pin "1"
 			(uuid "7758dba2-65fd-48e5-87be-d03d57c5e9bc")
-		)
-		(pin "1N"
-			(uuid "a8d92121-cd15-43a5-a173-3892a2adf4c9")
 		)
 		(pin "2"
 			(uuid "f17a31a7-223a-4544-b072-05e04f9534c5")
@@ -5340,6 +5413,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-Hardware:Standoff")
+		(at 135.89 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f42012a-c574-4ed3-824b-c7cb03cf6463")
+		(property "Reference" "Mount1"
+			(at 135.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "B9A Mount"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:B9A-shield-single-mount"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "Mount1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 55.88 85.09 0)
 		(unit 1)
@@ -5880,87 +6017,6 @@
 			(project "sparkGap2"
 				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:DPDT")
-		(at 55.88 104.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "628150bf-664d-4f88-a185-e6aed5a35316")
-		(property "Reference" "SW2"
-			(at 54.61 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "6-pin Footswitch"
-			(at 54.61 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:DPDT"
-			(at 55.88 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 55.88 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "843bbaf8-a74b-495d-9a81-42aee008db8a")
-		)
-		(pin "3"
-			(uuid "1efe6599-5e6c-4e5d-ab01-43510c6ba684")
-		)
-		(pin "4"
-			(uuid "e4e5a195-119d-4507-908e-696ee71b59fe")
-		)
-		(pin "1"
-			(uuid "f6a685ef-191b-437b-ac9e-3265afad4994")
-		)
-		(pin "5"
-			(uuid "1c45e54f-7e29-4a15-a6cb-b4c3d1f3fa53")
-		)
-		(pin "6"
-			(uuid "eb9c45ca-62ef-4dd1-913c-4a50ff3511a3")
-		)
-		(instances
-			(project ""
-				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
-					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -6762,6 +6818,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-Hardware:Standoff")
+		(at 161.29 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "831e0fe0-2308-4c66-a770-c3dcdb86ba3c")
+		(property "Reference" "Mount2"
+			(at 161.29 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "B9A Mount"
+			(at 161.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:B9A-shield-single-mount"
+			(at 161.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
+			(at 161.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "Mount2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 128.27 132.08 0)
 		(unit 1)
@@ -6900,88 +7020,6 @@
 				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
 					(reference "Q1")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:DPDT")
-		(at 238.76 111.76 0)
-		(mirror x)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "90106e05-ee57-4024-964d-3d84348c5c16")
-		(property "Reference" "SW2"
-			(at 237.49 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "6-pin Footswitch"
-			(at 237.49 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:DPDT"
-			(at 238.76 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 238.76 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "843bbaf8-a74b-495d-9a81-42aee008db8b")
-		)
-		(pin "3"
-			(uuid "1efe6599-5e6c-4e5d-ab01-43510c6ba685")
-		)
-		(pin "4"
-			(uuid "e4e5a195-119d-4507-908e-696ee71b59ff")
-		)
-		(pin "1"
-			(uuid "f6a685ef-191b-437b-ac9e-3265afad4995")
-		)
-		(pin "5"
-			(uuid "1c45e54f-7e29-4a15-a6cb-b4c3d1f3fa54")
-		)
-		(pin "6"
-			(uuid "eb9c45ca-62ef-4dd1-913c-4a50ff3511a4")
-		)
-		(instances
-			(project ""
-				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
-					(reference "SW2")
-					(unit 2)
 				)
 			)
 		)
@@ -7285,6 +7323,86 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:DPDT")
+		(at 55.88 104.14 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "9c6c859b-c56d-4bf6-bf9a-e366368633c4")
+		(property "Reference" "SW2"
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6-pin Footswitch"
+			(at 54.61 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+			(at 55.88 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0e76c280-0001-4c54-9221-bcf042162dcb")
+		)
+		(pin "3"
+			(uuid "1efe6599-5e6c-4e5d-ab01-43510c6ba685")
+		)
+		(pin "4"
+			(uuid "d0872356-d59f-4e03-8fb1-198ae5b9312b")
+		)
+		(pin "1"
+			(uuid "f6a685ef-191b-437b-ac9e-3265afad4995")
+		)
+		(pin "5"
+			(uuid "1c45e54f-7e29-4a15-a6cb-b4c3d1f3fa54")
+		)
+		(pin "6"
+			(uuid "18d30a33-7a93-4587-88fc-4656bee36744")
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "SW2")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 144.78 104.14 90)
 		(unit 1)
@@ -7483,6 +7601,87 @@
 			(project "sparkGap2"
 				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:DPDT")
+		(at 238.76 111.76 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "bd4dfbba-ad83-4240-a717-9d1040f62e26")
+		(property "Reference" "SW2"
+			(at 237.49 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6-pin Footswitch"
+			(at 237.49 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "843bbaf8-a74b-495d-9a81-42aee008db8a")
+		)
+		(pin "3"
+			(uuid "2f1dab29-f0ac-4055-ade4-82ffb47b8ac6")
+		)
+		(pin "4"
+			(uuid "e4e5a195-119d-4507-908e-696ee71b59fe")
+		)
+		(pin "1"
+			(uuid "ccb8977b-b001-4122-b23a-de650f3afc1c")
+		)
+		(pin "5"
+			(uuid "a092e76a-a72d-4069-97bc-b5ec8919f407")
+		)
+		(pin "6"
+			(uuid "eb9c45ca-62ef-4dd1-913c-4a50ff3511a3")
+		)
+		(instances
+			(project "sparkGap2"
+				(path "/bd6cf20e-4683-4745-aaa3-17469f6777ac"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -8670,11 +8869,11 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:AudioJack2_Switch")
+		(lib_id "SamacSys_Parts:Jack2_off_board_Switch")
 		(at 260.35 115.57 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
 		(uuid "ed4a79b0-a623-4eff-94df-e2035cbd5200")
@@ -8726,9 +8925,6 @@
 		)
 		(pin "2"
 			(uuid "2351c38d-02f4-4e25-b9b8-fb714a26a4dd")
-		)
-		(pin "1N"
-			(uuid "8bcb2d20-5142-47b8-8c9f-6824b64270dd")
 		)
 		(instances
 			(project "sparkGap2"

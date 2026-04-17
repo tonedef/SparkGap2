@@ -111,16 +111,12 @@
           "This is just for PCB layout"
         ],
         [
-          "net_conflict|21900000|92389004|d36313ce-a209-4f9f-be1c-4b8359eb574b|00000000-0000-0000-0000-000000000000",
-          "Pin is on jack"
+          "silk_over_copper|28466996|52425000|2c5cc4b8-9411-4ba5-82cf-48921d5dafbe|00000000-0000-0000-0000-000000000000",
+          "Fine. Just overlaps mechanical support"
         ],
         [
-          "net_conflict|70900000|92270711|f90240b8-8585-4af0-ae54-5f01a45fa068|00000000-0000-0000-0000-000000000000",
-          "Pin is on jack"
-        ],
-        [
-          "silk_over_copper|28470000|42925000|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
-          "mount hole for pot. should be fine"
+          "silk_over_copper|29270000|44925000|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
+          "Fine. Just overlaps mechanical support"
         ]
       ],
       "meta": {
