@@ -3,3 +3,4 @@
 production/backups/
 fp-info-cache
 .history/
+\#auto*
