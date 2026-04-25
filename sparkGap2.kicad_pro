@@ -105,20 +105,8 @@
           "moved \"+\" to not overlap"
         ],
         [
-          "lib_footprint_mismatch|44400000|50338332|222e1c40-a59a-4c37-95e7-e700e1deb2f4|00000000-0000-0000-0000-000000000000",
-          "moved \"+\" to not overlap"
-        ],
-        [
           "lib_footprint_mismatch|46400000|75670711|ab98ca5f-073c-47e9-bbb4-aa018882c0c1|00000000-0000-0000-0000-000000000000",
           "This is just for PCB layout"
-        ],
-        [
-          "silk_over_copper|28466996|52425000|2c5cc4b8-9411-4ba5-82cf-48921d5dafbe|00000000-0000-0000-0000-000000000000",
-          "Fine. Just overlaps mechanical support"
-        ],
-        [
-          "silk_over_copper|29270000|44925000|5e2c9dc9-691f-4b6a-9bb1-e4506637933d|00000000-0000-0000-0000-000000000000",
-          "Fine. Just overlaps mechanical support"
         ]
       ],
       "meta": {
