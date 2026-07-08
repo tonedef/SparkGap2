@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "bd6cf20e-4683-4745-aaa3-17469f6777ac")
-	(paper "A4")
+	(paper "USLetter")
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL072"
 			(pin_names
@@ -3418,182 +3418,182 @@
 		)
 	)
 	(junction
-		(at 151.13 104.14)
+		(at 143.51 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "064c43af-2707-4f1c-acf4-075f2100d9c0")
 	)
 	(junction
-		(at 66.04 101.6)
+		(at 58.42 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0dd8690e-562c-4f8b-bb19-97d68bf6fda6")
 	)
 	(junction
-		(at 67.31 69.85)
+		(at 59.69 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31c0a2b0-8b7d-40ff-bbdf-fc92a1b5625d")
 	)
 	(junction
-		(at 102.87 116.84)
+		(at 95.25 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a709987-f140-462e-b612-b4c7772b15f3")
 	)
 	(junction
-		(at 105.41 104.14)
+		(at 97.79 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e1c6f9d-cebc-4cf5-a464-1108475e5630")
 	)
 	(junction
-		(at 130.81 135.89)
+		(at 123.19 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "462ecf65-df44-4ce9-a084-809b19505473")
 	)
 	(junction
-		(at 162.56 104.14)
+		(at 154.94 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51b2288d-64a6-478e-8e87-ed4549c7791b")
 	)
 	(junction
-		(at 80.01 101.6)
+		(at 72.39 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63f8cc3a-e460-47ca-b5b9-eb5d7cf7977d")
 	)
 	(junction
-		(at 186.69 121.92)
+		(at 179.07 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e142aaa-c86c-4c9f-9133-4505480d64e2")
 	)
 	(junction
-		(at 251.46 114.3)
+		(at 243.84 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73bac792-ecc8-440a-9728-d63f7d5c00f1")
 	)
 	(junction
-		(at 186.69 106.68)
+		(at 179.07 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78067d1c-4d0f-4242-87b5-9ba3f18c3206")
 	)
 	(junction
-		(at 113.03 104.14)
+		(at 105.41 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b6c648e-9e17-42b9-b6d0-2a7eefc8dd16")
 	)
 	(junction
-		(at 242.57 99.06)
+		(at 234.95 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8bebd4f6-d3dd-4809-91fd-75a0185fc023")
 	)
 	(junction
-		(at 205.74 106.68)
+		(at 198.12 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8cdd0f24-1d6d-4eb6-8d23-7e801a17de64")
 	)
 	(junction
-		(at 139.7 104.14)
+		(at 132.08 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "901411c7-7a45-4575-a725-5441ee26b1c0")
 	)
 	(junction
-		(at 105.41 116.84)
+		(at 97.79 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a148f431-c4f4-4979-9b70-31f9db7d362d")
 	)
 	(junction
-		(at 49.53 104.14)
+		(at 41.91 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2e33b87-1a9a-4a23-a2ac-7ddbe04af257")
 	)
 	(junction
-		(at 157.48 104.14)
+		(at 149.86 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3cb39b4-4d18-415a-bf59-8e1d08df0ecf")
 	)
 	(junction
-		(at 90.17 69.85)
+		(at 82.55 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4c0e5a0-ff4c-4527-a07f-3b8150a6e025")
 	)
 	(junction
-		(at 67.31 77.47)
+		(at 59.69 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5130225-e41a-4d4d-a79f-0e062ae2f5f3")
 	)
 	(junction
-		(at 125.73 104.14)
+		(at 118.11 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5ce2cc8-7abe-456f-b076-0074c3c91399")
 	)
 	(junction
-		(at 205.74 116.84)
+		(at 198.12 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2ab22f6-219e-4079-9fc1-8c86e3c462ac")
 	)
 	(junction
-		(at 195.58 106.68)
+		(at 187.96 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd00c7d6-4916-47a7-8859-0bead5d4d83b")
 	)
 	(junction
-		(at 113.03 121.92)
+		(at 105.41 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce5bbd45-4a50-4d5d-b41a-65b59dead84d")
 	)
 	(junction
-		(at 132.08 104.14)
+		(at 124.46 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d990c447-b035-41b3-b1fc-095d8cbcb97d")
 	)
 	(junction
-		(at 149.86 135.89)
+		(at 142.24 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcf09d01-0b03-471c-bb2f-4f26ddb1e0cc")
 	)
 	(junction
-		(at 195.58 121.92)
+		(at 187.96 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e25b375e-01b5-41b7-9813-7db9d705f7e1")
 	)
 	(junction
-		(at 55.88 69.85)
+		(at 48.26 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f045d7f3-c20a-4d11-87e5-cae0a419fa0a")
 	)
 	(junction
-		(at 205.74 127)
+		(at 198.12 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1b335f3-5d9e-4c69-97b1-6a8b4cda5a34")
 	)
 	(wire
 		(pts
-			(xy 66.04 111.76) (xy 66.04 110.49)
+			(xy 58.42 118.11) (xy 58.42 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3603,7 +3603,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 80.01) (xy 78.74 77.47)
+			(xy 71.12 86.36) (xy 71.12 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3613,7 +3613,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 109.22) (xy 44.45 109.22)
+			(xy 40.64 115.57) (xy 36.83 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3623,7 +3623,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 116.84) (xy 205.74 118.11)
+			(xy 198.12 123.19) (xy 198.12 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3633,7 +3633,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 69.85) (xy 67.31 69.85)
+			(xy 71.12 76.2) (xy 59.69 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3643,7 +3643,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 121.92) (xy 113.03 120.65)
+			(xy 105.41 128.27) (xy 105.41 127)
 		)
 		(stroke
 			(width 0)
@@ -3653,7 +3653,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 69.85) (xy 104.14 69.85)
+			(xy 82.55 76.2) (xy 96.52 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3663,7 +3663,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 146.05) (xy 251.46 114.3)
+			(xy 243.84 152.4) (xy 243.84 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3673,7 +3673,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 121.92) (xy 255.27 119.38)
+			(xy 247.65 128.27) (xy 247.65 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3683,7 +3683,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 106.68) (xy 195.58 106.68)
+			(xy 179.07 113.03) (xy 187.96 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3693,7 +3693,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 104.14) (xy 113.03 104.14)
+			(xy 97.79 110.49) (xy 105.41 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3703,7 +3703,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 104.14) (xy 113.03 113.03)
+			(xy 105.41 110.49) (xy 105.41 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3713,7 +3713,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 116.84) (xy 105.41 116.84)
+			(xy 101.6 123.19) (xy 97.79 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3723,7 +3723,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 104.14) (xy 124.46 104.14)
+			(xy 118.11 110.49) (xy 116.84 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3733,7 +3733,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 74.93) (xy 55.88 69.85)
+			(xy 48.26 81.28) (xy 48.26 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3743,7 +3743,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 104.14) (xy 151.13 114.3)
+			(xy 143.51 110.49) (xy 143.51 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3753,7 +3753,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 101.6) (xy 59.69 101.6)
+			(xy 58.42 107.95) (xy 52.07 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3763,7 +3763,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 69.85) (xy 45.72 69.85)
+			(xy 48.26 76.2) (xy 38.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3773,7 +3773,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 116.84) (xy 102.87 121.92)
+			(xy 95.25 123.19) (xy 95.25 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3783,7 +3783,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 106.68) (xy 195.58 110.49)
+			(xy 187.96 113.03) (xy 187.96 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3793,7 +3793,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 116.84) (xy 105.41 113.03)
+			(xy 97.79 123.19) (xy 97.79 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3803,7 +3803,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 128.27) (xy 113.03 127)
+			(xy 105.41 134.62) (xy 105.41 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3813,7 +3813,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 106.68) (xy 218.44 106.68)
+			(xy 215.9 113.03) (xy 210.82 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3823,7 +3823,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 101.6) (xy 90.17 101.6)
+			(xy 72.39 107.95) (xy 82.55 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3833,7 +3833,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 121.92) (xy 186.69 121.92)
+			(xy 163.83 128.27) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3843,7 +3843,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 114.3) (xy 251.46 114.3)
+			(xy 247.65 120.65) (xy 243.84 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3853,7 +3853,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 104.14) (xy 132.08 104.14)
+			(xy 118.11 110.49) (xy 124.46 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3863,7 +3863,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 105.41) (xy 80.01 101.6)
+			(xy 72.39 111.76) (xy 72.39 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3873,7 +3873,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 104.14) (xy 171.45 104.14)
+			(xy 154.94 110.49) (xy 163.83 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3883,7 +3883,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 99.06) (xy 242.57 109.22)
+			(xy 234.95 105.41) (xy 234.95 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3893,7 +3893,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 106.68) (xy 49.53 104.14)
+			(xy 41.91 113.03) (xy 41.91 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3903,7 +3903,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 121.92) (xy 201.93 121.92)
+			(xy 187.96 128.27) (xy 194.31 128.27)
 		)
 		(stroke
 			(width 0)
@@ -3913,7 +3913,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 132.08) (xy 149.86 135.89)
+			(xy 142.24 138.43) (xy 142.24 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3923,7 +3923,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 135.89) (xy 156.21 132.08)
+			(xy 148.59 142.24) (xy 148.59 138.43)
 		)
 		(stroke
 			(width 0)
@@ -3933,7 +3933,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 110.49) (xy 186.69 106.68)
+			(xy 179.07 116.84) (xy 179.07 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3943,7 +3943,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 101.6) (xy 73.66 101.6)
+			(xy 67.31 107.95) (xy 66.04 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3953,7 +3953,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 127) (xy 215.9 127)
+			(xy 198.12 133.35) (xy 208.28 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3963,7 +3963,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 106.68) (xy 162.56 104.14)
+			(xy 154.94 113.03) (xy 154.94 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3973,7 +3973,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 85.09) (xy 104.14 80.01)
+			(xy 96.52 91.44) (xy 96.52 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3983,7 +3983,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 135.89) (xy 156.21 135.89)
+			(xy 142.24 142.24) (xy 148.59 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3993,7 +3993,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 74.93) (xy 104.14 69.85)
+			(xy 96.52 81.28) (xy 96.52 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4003,7 +4003,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 77.47) (xy 76.2 77.47)
+			(xy 71.12 83.82) (xy 68.58 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4013,7 +4013,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 121.92) (xy 195.58 121.92)
+			(xy 179.07 128.27) (xy 187.96 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4023,7 +4023,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 114.3) (xy 242.57 114.3)
+			(xy 243.84 120.65) (xy 234.95 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4033,7 +4033,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 109.22) (xy 171.45 121.92)
+			(xy 163.83 115.57) (xy 163.83 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4043,7 +4043,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 105.41) (xy 66.04 101.6)
+			(xy 58.42 111.76) (xy 58.42 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4053,7 +4053,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 107.95) (xy 105.41 104.14)
+			(xy 97.79 114.3) (xy 97.79 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4063,7 +4063,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 135.89) (xy 149.86 135.89)
+			(xy 123.19 142.24) (xy 142.24 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4073,7 +4073,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 135.89) (xy 130.81 135.89)
+			(xy 116.84 142.24) (xy 123.19 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4083,7 +4083,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 127) (xy 205.74 125.73)
+			(xy 198.12 133.35) (xy 198.12 132.08)
 		)
 		(stroke
 			(width 0)
@@ -4093,7 +4093,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 104.14) (xy 151.13 104.14)
+			(xy 139.7 110.49) (xy 143.51 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4103,7 +4103,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 132.08) (xy 124.46 135.89)
+			(xy 116.84 138.43) (xy 116.84 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4113,7 +4113,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 106.68) (xy 213.36 106.68)
+			(xy 198.12 113.03) (xy 205.74 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4123,7 +4123,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 116.84) (xy 105.41 116.84)
+			(xy 95.25 123.19) (xy 97.79 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4133,7 +4133,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 104.14) (xy 157.48 104.14)
+			(xy 154.94 110.49) (xy 149.86 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4143,7 +4143,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 104.14) (xy 157.48 104.14)
+			(xy 143.51 110.49) (xy 149.86 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4153,7 +4153,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 116.84) (xy 205.74 116.84)
+			(xy 208.28 123.19) (xy 198.12 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4163,7 +4163,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 101.6) (xy 66.04 101.6)
+			(xy 60.96 107.95) (xy 58.42 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4173,7 +4173,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 104.14) (xy 49.53 104.14)
+			(xy 36.83 110.49) (xy 41.91 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4183,7 +4183,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 106.68) (xy 49.53 106.68)
+			(xy 36.83 113.03) (xy 41.91 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4193,7 +4193,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 106.68) (xy 59.69 146.05)
+			(xy 52.07 113.03) (xy 52.07 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4203,7 +4203,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 104.14) (xy 125.73 114.3)
+			(xy 118.11 110.49) (xy 118.11 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4213,7 +4213,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 128.27) (xy 205.74 127)
+			(xy 198.12 134.62) (xy 198.12 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4223,7 +4223,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 90.17) (xy 242.57 99.06)
+			(xy 234.95 96.52) (xy 234.95 105.41)
 		)
 		(stroke
 			(width 0)
@@ -4233,7 +4233,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 115.57) (xy 195.58 121.92)
+			(xy 187.96 121.92) (xy 187.96 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4243,7 +4243,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 104.14) (xy 142.24 104.14)
+			(xy 132.08 110.49) (xy 134.62 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4253,7 +4253,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 106.68) (xy 90.17 116.84)
+			(xy 82.55 113.03) (xy 82.55 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4263,7 +4263,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 104.14) (xy 157.48 114.3)
+			(xy 149.86 110.49) (xy 149.86 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4273,7 +4273,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 104.14) (xy 118.11 104.14)
+			(xy 111.76 110.49) (xy 110.49 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4283,7 +4283,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 85.09) (xy 90.17 81.28)
+			(xy 82.55 91.44) (xy 82.55 87.63)
 		)
 		(stroke
 			(width 0)
@@ -4293,7 +4293,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 73.66) (xy 90.17 69.85)
+			(xy 82.55 80.01) (xy 82.55 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4303,7 +4303,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 121.92) (xy 113.03 121.92)
+			(xy 102.87 128.27) (xy 105.41 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4313,7 +4313,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 69.85) (xy 83.82 69.85)
+			(xy 82.55 76.2) (xy 76.2 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4323,7 +4323,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 69.85) (xy 67.31 69.85)
+			(xy 48.26 76.2) (xy 59.69 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4333,7 +4333,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 77.47) (xy 67.31 77.47)
+			(xy 63.5 83.82) (xy 59.69 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4343,7 +4343,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 104.14) (xy 139.7 106.68)
+			(xy 132.08 110.49) (xy 132.08 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4353,7 +4353,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 127) (xy 215.9 124.46)
+			(xy 208.28 133.35) (xy 208.28 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4363,7 +4363,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 146.05) (xy 251.46 146.05)
+			(xy 52.07 152.4) (xy 243.84 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4373,7 +4373,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 132.08) (xy 130.81 135.89)
+			(xy 123.19 138.43) (xy 123.19 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4383,7 +4383,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 119.38) (xy 215.9 116.84)
+			(xy 208.28 125.73) (xy 208.28 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4393,7 +4393,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 106.68) (xy 205.74 106.68)
+			(xy 187.96 113.03) (xy 198.12 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4403,7 +4403,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 115.57) (xy 186.69 121.92)
+			(xy 179.07 121.92) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4413,7 +4413,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 107.95) (xy 223.52 106.68)
+			(xy 215.9 114.3) (xy 215.9 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4423,7 +4423,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 85.09) (xy 55.88 80.01)
+			(xy 48.26 91.44) (xy 48.26 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4433,7 +4433,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 104.14) (xy 139.7 104.14)
+			(xy 124.46 110.49) (xy 132.08 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4443,7 +4443,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 121.92) (xy 105.41 121.92)
+			(xy 95.25 128.27) (xy 97.79 128.27)
 		)
 		(stroke
 			(width 0)
@@ -4453,7 +4453,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 85.09) (xy 45.72 74.93)
+			(xy 38.1 91.44) (xy 38.1 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4463,7 +4463,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 116.84) (xy 102.87 116.84)
+			(xy 82.55 123.19) (xy 95.25 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4473,7 +4473,7 @@
 	)
 	(global_label "4.5V"
 		(shape input)
-		(at 78.74 77.47 0)
+		(at 71.12 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4483,7 +4483,7 @@
 		)
 		(uuid "081b5714-2e01-4f67-8e34-3f189b4ace00")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.8376 77.47 0)
+			(at 78.2176 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4497,7 +4497,7 @@
 	)
 	(global_label "4.5V"
 		(shape input)
-		(at 80.01 110.49 270)
+		(at 72.39 116.84 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4507,7 +4507,7 @@
 		)
 		(uuid "578a1919-2e31-41c6-beff-a3a6b5bd5a4e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.01 117.5876 90)
+			(at 72.39 123.9376 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4521,7 +4521,7 @@
 	)
 	(global_label "A"
 		(shape input)
-		(at 60.96 69.85 90)
+		(at 53.34 76.2 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4531,7 +4531,7 @@
 		)
 		(uuid "72ea6926-7b98-48bb-bb55-9988e27591ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.96 65.7762 90)
+			(at 53.34 72.1262 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4545,7 +4545,7 @@
 	)
 	(global_label "A"
 		(shape input)
-		(at 250.19 73.66 90)
+		(at 242.57 80.01 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4555,7 +4555,7 @@
 		)
 		(uuid "7a645394-b09b-43e1-967f-ac97bf7cd342")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 250.19 69.5862 90)
+			(at 242.57 75.9362 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4569,7 +4569,7 @@
 	)
 	(global_label "9V"
 		(shape input)
-		(at 242.57 82.55 90)
+		(at 234.95 88.9 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4579,7 +4579,7 @@
 		)
 		(uuid "7f46a8ff-7ecc-46d6-ac86-fc3873fff61c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.57 77.2667 90)
+			(at 234.95 83.6167 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4593,7 +4593,7 @@
 	)
 	(global_label "4.5V"
 		(shape input)
-		(at 156.21 135.89 0)
+		(at 148.59 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4603,7 +4603,7 @@
 		)
 		(uuid "f6d6677f-bc61-44c2-bca4-3c75d9c6be9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.3076 135.89 0)
+			(at 155.6876 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4617,7 +4617,7 @@
 	)
 	(global_label "9V"
 		(shape input)
-		(at 104.14 69.85 0)
+		(at 96.52 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4627,7 +4627,7 @@
 		)
 		(uuid "f7c3fb30-2841-499e-917c-e9aafe17f3f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.4233 69.85 0)
+			(at 101.8033 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4641,7 +4641,7 @@
 	)
 	(global_label "9V"
 		(shape input)
-		(at 176.53 99.06 90)
+		(at 168.91 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4651,7 +4651,7 @@
 		)
 		(uuid "fa739a76-a512-4864-831f-6c0c4d201597")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.53 93.7767 90)
+			(at 168.91 100.1267 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4665,7 +4665,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:Jack2_off_board_Switch")
-		(at 39.37 105.41 0)
+		(at 31.75 111.76 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -4676,7 +4676,7 @@
 		(dnp yes)
 		(uuid "0678f58f-a7db-4bdb-9826-b29eefdb5f23")
 		(property "Reference" "J2"
-			(at 38.735 114.3 0)
+			(at 31.115 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4686,7 +4686,7 @@
 			)
 		)
 		(property "Value" "IN"
-			(at 38.735 111.76 0)
+			(at 31.115 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4696,7 +4696,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 38.608 116.586 0)
+			(at 30.988 122.936 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4707,7 +4707,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 109.22 0)
+			(at 31.75 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4718,7 +4718,40 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
-			(at 38.608 98.298 0)
+			(at 30.988 104.648 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "NMJ4HC-S"
+			(at 31.75 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Neutrik"
+			(at 31.75 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "This needs to have a switch. Generic is fine"
+			(at 31.75 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4745,7 +4778,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 104.14 85.09 0)
+		(at 96.52 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4756,7 +4789,7 @@
 		(fields_autoplaced yes)
 		(uuid "07e9d764-7c34-461c-ab3e-315eb6be7e0a")
 		(property "Reference" "#PWR08"
-			(at 104.14 91.44 0)
+			(at 96.52 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4767,7 +4800,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 104.14 90.17 0)
+			(at 96.52 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4778,7 +4811,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 85.09 0)
+			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4789,7 +4822,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 85.09 0)
+			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4800,7 +4833,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 104.14 85.09 0)
+			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4824,7 +4857,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 81.28 69.85 90)
+		(at 73.66 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4835,7 +4868,7 @@
 		(fields_autoplaced yes)
 		(uuid "098eaa15-b88a-462d-ae68-538f0b760b4e")
 		(property "Reference" "R12"
-			(at 81.28 64.77 90)
+			(at 73.66 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4845,7 +4878,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 81.28 67.31 90)
+			(at 73.66 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4855,7 +4888,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 81.28 69.85 0)
+			(at 73.66 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4866,7 +4899,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 69.85 0)
+			(at 73.66 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4877,7 +4910,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 81.28 69.85 0)
+			(at 73.66 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 73.66 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 73.66 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 73.66 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4904,7 +4970,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 139.7 111.76 0)
+		(at 132.08 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4915,7 +4981,7 @@
 		(fields_autoplaced yes)
 		(uuid "14365af6-0ec1-46dd-a7e5-509e7d77551a")
 		(property "Reference" "#PWR011"
-			(at 139.7 118.11 0)
+			(at 132.08 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4926,7 +4992,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 139.7 116.84 0)
+			(at 132.08 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4937,7 +5003,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 111.76 0)
+			(at 132.08 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4948,7 +5014,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 111.76 0)
+			(at 132.08 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4959,7 +5025,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 139.7 111.76 0)
+			(at 132.08 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4983,7 +5049,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 176.53 114.3 0)
+		(at 168.91 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4994,7 +5060,7 @@
 		(fields_autoplaced yes)
 		(uuid "153d5923-5c23-45f1-8c37-74bf7f2e9f83")
 		(property "Reference" "#PWR014"
-			(at 176.53 120.65 0)
+			(at 168.91 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5005,7 +5071,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 176.53 119.38 0)
+			(at 168.91 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5016,7 +5082,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 114.3 0)
+			(at 168.91 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5027,7 +5093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 114.3 0)
+			(at 168.91 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5038,7 +5104,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 176.53 114.3 0)
+			(at 168.91 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,7 +5128,7 @@
 	)
 	(symbol
 		(lib_id "RCA_Valve:EB91")
-		(at 153.67 123.19 180)
+		(at 146.05 129.54 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5073,7 +5139,7 @@
 		(fields_autoplaced yes)
 		(uuid "17cf0653-acec-4e5c-8f95-dc6856b653ba")
 		(property "Reference" "V2"
-			(at 161.29 121.9199 0)
+			(at 153.67 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5084,7 +5150,7 @@
 			)
 		)
 		(property "Value" "EB91"
-			(at 161.29 124.4599 0)
+			(at 153.67 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5095,7 +5161,7 @@
 			)
 		)
 		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
-			(at 153.67 123.19 0)
+			(at 146.05 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5106,7 +5172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 123.19 0)
+			(at 146.05 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5117,7 +5183,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.67 123.19 0)
+			(at 146.05 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 146.05 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 146.05 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 146.05 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5159,7 +5258,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 107.95 121.92 90)
+		(at 100.33 128.27 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5169,7 +5268,7 @@
 		(dnp no)
 		(uuid "18a31a5d-2a9c-4ad2-85eb-8c29396e07d7")
 		(property "Reference" "R4"
-			(at 107.95 125.73 90)
+			(at 100.33 132.08 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5179,7 +5278,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 107.95 123.952 90)
+			(at 100.33 130.302 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5189,7 +5288,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 107.95 121.92 0)
+			(at 100.33 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5200,7 +5299,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 121.92 0)
+			(at 100.33 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5211,7 +5310,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 107.95 121.92 0)
+			(at 100.33 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 100.33 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 100.33 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 100.33 128.27 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5238,7 +5370,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 45.72 85.09 0)
+		(at 38.1 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5249,7 +5381,7 @@
 		(fields_autoplaced yes)
 		(uuid "19ac4176-591b-4d42-9553-5ba60a78523d")
 		(property "Reference" "#PWR01"
-			(at 45.72 91.44 0)
+			(at 38.1 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5260,7 +5392,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 45.72 90.17 0)
+			(at 38.1 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5271,7 +5403,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 85.09 0)
+			(at 38.1 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5282,7 +5414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 85.09 0)
+			(at 38.1 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5293,7 +5425,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 45.72 85.09 0)
+			(at 38.1 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5317,7 +5449,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4001")
-		(at 90.17 77.47 270)
+		(at 82.55 83.82 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5328,7 +5460,7 @@
 		(fields_autoplaced yes)
 		(uuid "19e4255d-0adb-451d-b1bd-259a92898ed4")
 		(property "Reference" "D1"
-			(at 92.71 76.1999 90)
+			(at 85.09 82.5499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5339,7 +5471,7 @@
 			)
 		)
 		(property "Value" "1N4001"
-			(at 92.71 78.7399 90)
+			(at 85.09 85.0899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5350,7 +5482,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp"
-			(at 90.17 77.47 0)
+			(at 82.55 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5361,7 +5493,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 90.17 77.47 0)
+			(at 82.55 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5372,7 +5504,7 @@
 			)
 		)
 		(property "Description" "50V 1A General Purpose Rectifier Diode, DO-41"
-			(at 90.17 77.47 0)
+			(at 82.55 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5383,7 +5515,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 77.47 0)
+			(at 82.55 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5394,7 +5526,40 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 77.47 0)
+			(at 82.55 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "1N4001RLG"
+			(at 82.55 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "onsemi"
+			(at 82.55 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 82.55 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5421,7 +5586,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 77.47 101.6 270)
+		(at 69.85 107.95 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -5432,7 +5597,7 @@
 		(dnp no)
 		(uuid "1bcc2c32-d93e-4d16-b1ab-ddc373125605")
 		(property "Reference" "C1"
-			(at 75.438 96.266 90)
+			(at 67.818 102.616 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5443,7 +5608,7 @@
 			)
 		)
 		(property "Value" "2.2n"
-			(at 75.438 98.806 90)
+			(at 67.818 105.156 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5454,7 +5619,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 77.47 101.6 0)
+			(at 69.85 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5465,7 +5630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 101.6 0)
+			(at 69.85 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5476,7 +5641,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 77.47 101.6 0)
+			(at 69.85 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "B32529C1222K189"
+			(at 69.85 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TDK"
+			(at 69.85 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 69.85 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5503,7 +5701,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 67.31 85.09 0)
+		(at 59.69 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5514,7 +5712,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d2155b5-85c0-4ecb-9dc9-780927109ec9")
 		(property "Reference" "#PWR05"
-			(at 67.31 91.44 0)
+			(at 59.69 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5525,7 +5723,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 67.31 90.17 0)
+			(at 59.69 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,7 +5734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 85.09 0)
+			(at 59.69 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5547,7 +5745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 85.09 0)
+			(at 59.69 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +5756,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 67.31 85.09 0)
+			(at 59.69 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5582,7 +5780,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 179.07 106.68 0)
+		(at 171.45 113.03 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5592,7 +5790,7 @@
 		(dnp no)
 		(uuid "20b9b527-cdf9-44b8-a3f8-d7329c05a24e")
 		(property "Reference" "U1"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5602,7 +5800,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 179.07 99.06 0)
+			(at 171.45 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5613,7 +5811,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5624,7 +5822,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5635,7 +5833,40 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "TL072IP"
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TI"
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Avoid generics. Buy TI"
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5680,7 +5911,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 179.07 106.68 0)
+		(at 171.45 113.03 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5691,7 +5922,7 @@
 		(fields_autoplaced yes)
 		(uuid "26668d3c-ac9c-4fca-83fc-ddd00f51a15c")
 		(property "Reference" "U1"
-			(at 177.8 105.4099 0)
+			(at 170.18 111.7599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5703,7 +5934,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 177.8 107.9499 0)
+			(at 170.18 114.2999 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5715,7 +5946,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5726,7 +5957,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5737,7 +5968,40 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 179.07 106.68 0)
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "TL072IP"
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TI"
+			(at 171.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Avoid generics. Buy TI"
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5782,7 +6046,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 115.57 104.14 90)
+		(at 107.95 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5793,7 +6057,7 @@
 		(fields_autoplaced yes)
 		(uuid "31cb3da1-b3c4-49ac-89ac-020c052819e4")
 		(property "Reference" "C4"
-			(at 115.5763 97.79 90)
+			(at 107.9563 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5803,7 +6067,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 115.5763 100.33 90)
+			(at 107.9563 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5813,7 +6077,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 115.57 104.14 0)
+			(at 107.95 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5824,7 +6088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 104.14 0)
+			(at 107.95 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5835,7 +6099,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 115.57 104.14 0)
+			(at 107.95 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "MKT1817410065"
+			(at 107.95 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Vishay"
+			(at 107.95 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 107.95 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5862,7 +6159,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Hardware:Standoff")
-		(at 135.89 129.54 0)
+		(at 128.27 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5873,7 +6170,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f42012a-c574-4ed3-824b-c7cb03cf6463")
 		(property "Reference" "Mount1"
-			(at 135.89 127 0)
+			(at 128.27 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5884,7 +6181,7 @@
 			)
 		)
 		(property "Value" "B9A Mount"
-			(at 135.89 132.08 0)
+			(at 128.27 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5895,7 +6192,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:B9A-shield-single-mount"
-			(at 135.89 137.16 0)
+			(at 128.27 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5906,7 +6203,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 134.62 0)
+			(at 128.27 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5917,7 +6214,40 @@
 			)
 		)
 		(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
-			(at 135.89 139.7 0)
+			(at 128.27 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "971100354"
+			(at 128.27 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Würth"
+			(at 128.27 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "10mm M3 standoffs"
+			(at 128.27 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5938,7 +6268,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 55.88 85.09 0)
+		(at 48.26 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5949,7 +6279,7 @@
 		(fields_autoplaced yes)
 		(uuid "3fe30fad-7bb1-4133-b8df-abe7d296ed44")
 		(property "Reference" "#PWR03"
-			(at 55.88 91.44 0)
+			(at 48.26 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5960,7 +6290,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 55.88 90.17 0)
+			(at 48.26 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5971,7 +6301,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 85.09 0)
+			(at 48.26 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5982,7 +6312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 85.09 0)
+			(at 48.26 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5993,7 +6323,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 55.88 85.09 0)
+			(at 48.26 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6017,7 +6347,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 250.19 76.2 180)
+		(at 242.57 82.55 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6028,7 +6358,7 @@
 		(fields_autoplaced yes)
 		(uuid "4530a412-8d55-44ca-844e-4ceb1b71e6a8")
 		(property "Reference" "R14"
-			(at 252.73 74.9299 0)
+			(at 245.11 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6038,8 +6368,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 252.73 77.4699 0)
+		(property "Value" "270"
+			(at 245.11 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6050,7 +6380,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 250.19 76.2 0)
+			(at 242.57 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6061,7 +6391,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 76.2 0)
+			(at 242.57 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6072,7 +6402,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 250.19 76.2 0)
+			(at 242.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 242.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 242.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors. Adjust for LED voltage drop and desired brightness. Between 360 and 1K Ohms is safe."
+			(at 242.57 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6099,18 +6462,18 @@
 	)
 	(symbol
 		(lib_id "Connector:Jack-DC")
-		(at 38.1 72.39 0)
+		(at 30.48 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "47cf991b-730d-49bd-8b2b-b56a9ada83a8")
 		(property "Reference" "J1"
-			(at 38.1 63.5 0)
+			(at 30.48 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6120,7 +6483,7 @@
 			)
 		)
 		(property "Value" "9V"
-			(at 38.1 66.04 0)
+			(at 30.48 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6130,7 +6493,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 39.37 73.406 0)
+			(at 31.75 79.756 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6141,7 +6504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 73.406 0)
+			(at 31.75 79.756 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6152,7 +6515,40 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack"
-			(at 38.1 72.39 0)
+			(at 30.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "54-00151"
+			(at 30.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Tensility"
+			(at 30.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "2.1mm ID, 5.5mm OD. Generic is fine. Must be insulated."
+			(at 30.48 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6179,7 +6575,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 66.04 111.76 0)
+		(at 58.42 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6190,7 +6586,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ae74934-4c89-4cf8-853d-e5c58e186a2e")
 		(property "Reference" "#PWR04"
-			(at 66.04 118.11 0)
+			(at 58.42 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6201,7 +6597,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 66.04 116.84 0)
+			(at 58.42 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6212,7 +6608,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 111.76 0)
+			(at 58.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6223,7 +6619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 111.76 0)
+			(at 58.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6234,7 +6630,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 66.04 111.76 0)
+			(at 58.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6258,7 +6654,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 113.03 133.35 0)
+		(at 105.41 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6269,7 +6665,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c4722be-b38a-45a6-be0a-5667c04e39be")
 		(property "Reference" "#PWR09"
-			(at 113.03 139.7 0)
+			(at 105.41 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6280,7 +6676,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 113.03 138.43 0)
+			(at 105.41 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6291,7 +6687,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 133.35 0)
+			(at 105.41 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6302,7 +6698,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 133.35 0)
+			(at 105.41 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6709,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 113.03 133.35 0)
+			(at 105.41 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6337,7 +6733,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 250.19 104.14 0)
+		(at 242.57 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6348,7 +6744,7 @@
 		(fields_autoplaced yes)
 		(uuid "5138df95-f947-472c-9421-5c9e9471876d")
 		(property "Reference" "#PWR017"
-			(at 250.19 110.49 0)
+			(at 242.57 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6359,7 +6755,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 250.19 109.22 0)
+			(at 242.57 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6370,7 +6766,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 104.14 0)
+			(at 242.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6381,7 +6777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 104.14 0)
+			(at 242.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6392,7 +6788,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 250.19 104.14 0)
+			(at 242.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6416,7 +6812,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 80.01 107.95 0)
+		(at 72.39 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6427,7 +6823,7 @@
 		(fields_autoplaced yes)
 		(uuid "56457bb9-6594-4551-8d7d-9826226a022d")
 		(property "Reference" "R3"
-			(at 82.55 106.6799 0)
+			(at 74.93 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6438,7 +6834,7 @@
 			)
 		)
 		(property "Value" "2.2M"
-			(at 82.55 109.2199 0)
+			(at 74.93 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6449,7 +6845,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 80.01 107.95 0)
+			(at 72.39 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6460,7 +6856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 107.95 0)
+			(at 72.39 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6471,7 +6867,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 80.01 107.95 0)
+			(at 72.39 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 72.39 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 72.39 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 72.39 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6498,7 +6927,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 105.41 110.49 0)
+		(at 97.79 116.84 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6509,7 +6938,7 @@
 		(dnp no)
 		(uuid "62670c01-c722-457d-9498-afb7e841072a")
 		(property "Reference" "C2"
-			(at 110.236 105.918 0)
+			(at 102.616 112.268 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6520,7 +6949,7 @@
 			)
 		)
 		(property "Value" "2.2n"
-			(at 110.236 108.458 0)
+			(at 102.616 114.808 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6531,7 +6960,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 105.41 110.49 0)
+			(at 97.79 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6542,7 +6971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 110.49 0)
+			(at 97.79 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6553,7 +6982,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 105.41 110.49 0)
+			(at 97.79 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "B32529C1222K189"
+			(at 97.79 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TDK"
+			(at 97.79 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 97.79 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6580,7 +7042,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 186.69 113.03 0)
+		(at 179.07 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6591,7 +7053,7 @@
 		(fields_autoplaced yes)
 		(uuid "631b80a7-13e5-43af-91b0-1a6f4e4dbcfd")
 		(property "Reference" "C7"
-			(at 189.23 111.7662 0)
+			(at 181.61 118.1162 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6602,7 +7064,7 @@
 			)
 		)
 		(property "Value" "4.7n"
-			(at 189.23 114.3062 0)
+			(at 181.61 120.6562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6613,7 +7075,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 186.69 113.03 0)
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6624,7 +7086,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 113.03 0)
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6635,7 +7097,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 186.69 113.03 0)
+			(at 179.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "B32529C1472K000"
+			(at 179.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TDK"
+			(at 179.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6662,7 +7157,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 205.74 130.81 0)
+		(at 198.12 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6673,7 +7168,7 @@
 		(fields_autoplaced yes)
 		(uuid "63de4b29-715f-449e-ad2d-a1d056e5d6d9")
 		(property "Reference" "C10"
-			(at 208.28 129.5462 0)
+			(at 200.66 135.8962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6684,7 +7179,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 208.28 132.0862 0)
+			(at 200.66 138.4362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6695,7 +7190,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 205.74 130.81 0)
+			(at 198.12 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6706,7 +7201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 130.81 0)
+			(at 198.12 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6717,7 +7212,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 205.74 130.81 0)
+			(at 198.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "MKT1817410065"
+			(at 198.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Vishay"
+			(at 198.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 198.12 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6744,7 +7272,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 250.19 82.55 270)
+		(at 242.57 88.9 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6755,7 +7283,7 @@
 		(dnp no)
 		(uuid "699a6731-88d0-47fa-84d8-011e1096b0d9")
 		(property "Reference" "D2"
-			(at 255.524 81.28 90)
+			(at 247.904 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6766,7 +7294,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 255.524 83.82 90)
+			(at 247.904 90.17 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6777,7 +7305,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 250.19 82.55 0)
+			(at 242.57 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6788,7 +7316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 82.55 0)
+			(at 242.57 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6799,7 +7327,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 250.19 82.55 0)
+			(at 242.57 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6810,7 +7338,40 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 82.55 0)
+			(at 242.57 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "BL-BJU3V1"
+			(at 242.57 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "American Bright Optoelectronics Corporation"
+			(at 242.57 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Choose whatever you want as long as it's a 3mm LED"
+			(at 242.57 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6837,7 +7398,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 205.74 114.3 0)
+		(at 198.12 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6848,7 +7409,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e81df67-3780-4259-91df-80ea0e5cf431")
 		(property "Reference" "C8"
-			(at 208.28 113.0362 0)
+			(at 200.66 119.3862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6859,7 +7420,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 208.28 115.5762 0)
+			(at 200.66 121.9262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6870,7 +7431,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 205.74 114.3 0)
+			(at 198.12 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6881,7 +7442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 114.3 0)
+			(at 198.12 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6892,7 +7453,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 205.74 114.3 0)
+			(at 198.12 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "MKT1817410065"
+			(at 198.12 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Vishay"
+			(at 198.12 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 198.12 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6919,7 +7513,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 223.52 111.76 0)
+		(at 215.9 118.11 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6930,7 +7524,7 @@
 		(dnp no)
 		(uuid "6ea3efbb-546e-4a95-8bbb-cc5ad94c8650")
 		(property "Reference" "VOL.1"
-			(at 220.98 110.4899 0)
+			(at 213.36 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6941,7 +7535,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 220.98 113.0299 0)
+			(at 213.36 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6952,7 +7546,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:potentiometer_vert_no_switch"
-			(at 223.52 111.76 0)
+			(at 215.9 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6963,7 +7557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 111.76 0)
+			(at 215.9 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6974,7 +7568,40 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 223.52 111.76 0)
+			(at 215.9 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "RK09L1140A5L"
+			(at 215.9 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Alps"
+			(at 215.9 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 215.9 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7004,7 +7631,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 104.14 77.47 0)
+		(at 96.52 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7014,7 +7641,7 @@
 		(dnp no)
 		(uuid "728a1a84-f676-4964-a596-c0160acf259e")
 		(property "Reference" "C13"
-			(at 106.68 75.6538 0)
+			(at 99.06 82.0038 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7025,7 +7652,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 106.68 78.1938 0)
+			(at 99.06 84.5438 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7035,8 +7662,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
-			(at 104.14 77.47 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 96.52 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7047,7 +7674,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 77.47 0)
+			(at 96.52 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7058,7 +7685,40 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 104.14 77.47 0)
+			(at 96.52 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "EEU-FR1H220"
+			(at 96.52 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Panasonic"
+			(at 96.52 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 96.52 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7085,7 +7745,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 78.74 82.55 0)
+		(at 71.12 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7096,7 +7756,7 @@
 		(fields_autoplaced yes)
 		(uuid "758f947c-e1fd-4abf-b268-04d1237bc170")
 		(property "Reference" "C14"
-			(at 81.28 80.7338 0)
+			(at 73.66 87.0838 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7107,7 +7767,7 @@
 			)
 		)
 		(property "Value" "1000u"
-			(at 81.28 83.2738 0)
+			(at 73.66 89.6238 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7118,7 +7778,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 78.74 82.55 0)
+			(at 71.12 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7129,7 +7789,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 82.55 0)
+			(at 71.12 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7140,7 +7800,40 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 78.74 82.55 0)
+			(at 71.12 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "16PX1000MEFC10X12.5"
+			(at 71.12 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Rubycon"
+			(at 71.12 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 71.12 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7167,7 +7860,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 205.74 138.43 0)
+		(at 198.12 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7178,7 +7871,7 @@
 		(fields_autoplaced yes)
 		(uuid "76bd750f-f4e2-4fd4-acd9-87c51d28bf9d")
 		(property "Reference" "#PWR015"
-			(at 205.74 144.78 0)
+			(at 198.12 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7189,7 +7882,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 205.74 143.51 0)
+			(at 198.12 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7200,7 +7893,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 138.43 0)
+			(at 198.12 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7211,7 +7904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 138.43 0)
+			(at 198.12 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7222,7 +7915,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 205.74 138.43 0)
+			(at 198.12 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7246,7 +7939,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 107.95 0)
+		(at 58.42 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7257,7 +7950,7 @@
 		(fields_autoplaced yes)
 		(uuid "786f7436-7f31-4bfc-9a9d-7e7729a48e84")
 		(property "Reference" "R1"
-			(at 68.58 106.6799 0)
+			(at 60.96 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7268,7 +7961,7 @@
 			)
 		)
 		(property "Value" "2.2M"
-			(at 68.58 109.2199 0)
+			(at 60.96 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7279,7 +7972,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 66.04 107.95 0)
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7290,7 +7983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 107.95 0)
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7301,7 +7994,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 66.04 107.95 0)
+			(at 58.42 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 58.42 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 58.42 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7328,7 +8054,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 195.58 113.03 180)
+		(at 187.96 119.38 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7339,7 +8065,7 @@
 		(fields_autoplaced yes)
 		(uuid "7984699d-3585-4f3e-93a9-9697c02089fc")
 		(property "Reference" "R8"
-			(at 198.12 111.7599 0)
+			(at 190.5 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7350,7 +8076,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 198.12 114.2999 0)
+			(at 190.5 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7361,7 +8087,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 195.58 113.03 0)
+			(at 187.96 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7372,7 +8098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 113.03 0)
+			(at 187.96 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7383,7 +8109,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 195.58 113.03 0)
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 187.96 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7410,7 +8169,7 @@
 	)
 	(symbol
 		(lib_id "RCA_Valve:EB91")
-		(at 67.31 73.66 0)
+		(at 59.69 80.01 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7421,7 +8180,7 @@
 		(fields_autoplaced yes)
 		(uuid "80f92999-71f5-4e5e-8818-ae38a5bda802")
 		(property "Reference" "V1"
-			(at 71.12 72.3899 0)
+			(at 63.5 78.7399 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7433,7 +8192,7 @@
 			)
 		)
 		(property "Value" "EB91"
-			(at 71.12 74.9299 0)
+			(at 63.5 81.2799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7445,7 +8204,7 @@
 			)
 		)
 		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
-			(at 67.31 73.66 0)
+			(at 59.69 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7456,7 +8215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 73.66 0)
+			(at 59.69 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7467,7 +8226,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 73.66 0)
+			(at 59.69 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 59.69 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 59.69 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 59.69 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7509,7 +8301,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Hardware:Standoff")
-		(at 161.29 129.54 0)
+		(at 153.67 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7520,7 +8312,7 @@
 		(fields_autoplaced yes)
 		(uuid "831e0fe0-2308-4c66-a770-c3dcdb86ba3c")
 		(property "Reference" "Mount2"
-			(at 161.29 127 0)
+			(at 153.67 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7531,7 +8323,7 @@
 			)
 		)
 		(property "Value" "B9A Mount"
-			(at 161.29 132.08 0)
+			(at 153.67 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7542,7 +8334,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:B9A-shield-single-mount"
-			(at 161.29 137.16 0)
+			(at 153.67 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7553,7 +8345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 134.62 0)
+			(at 153.67 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7564,7 +8356,40 @@
 			)
 		)
 		(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
-			(at 161.29 139.7 0)
+			(at 153.67 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "971100354"
+			(at 153.67 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Würth"
+			(at 153.67 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "10mm M3 standoffs"
+			(at 153.67 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7585,7 +8410,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 128.27 132.08 0)
+		(at 120.65 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7596,7 +8421,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b02c113-3e04-4ce2-8786-fbb34744998c")
 		(property "Reference" "#PWR010"
-			(at 128.27 138.43 0)
+			(at 120.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7607,7 +8432,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 128.27 137.16 0)
+			(at 120.65 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7618,7 +8443,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 132.08 0)
+			(at 120.65 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7629,7 +8454,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 132.08 0)
+			(at 120.65 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7640,7 +8465,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 128.27 132.08 0)
+			(at 120.65 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7664,7 +8489,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:BS170")
-		(at 247.65 99.06 0)
+		(at 240.03 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7675,7 +8500,7 @@
 		(fields_autoplaced yes)
 		(uuid "8bdea8a5-b6ed-4f7e-b0cc-d446c6ee4b16")
 		(property "Reference" "Q1"
-			(at 254 97.7899 0)
+			(at 246.38 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7686,7 +8511,7 @@
 			)
 		)
 		(property "Value" "BS170"
-			(at 254 100.3299 0)
+			(at 246.38 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7697,7 +8522,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
-			(at 252.73 100.965 0)
+			(at 245.11 107.315 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7710,7 +8535,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BS170-D.PDF"
-			(at 252.73 102.87 0)
+			(at 245.11 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7722,7 +8547,40 @@
 			)
 		)
 		(property "Description" "0.5A Id, 60V Vds, N-Channel MOSFET, TO-92"
-			(at 247.65 99.06 0)
+			(at 240.03 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "BS170"
+			(at 240.03 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "onsemi"
+			(at 240.03 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 240.03 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7752,7 +8610,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 205.74 121.92 0)
+		(at 198.12 128.27 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7763,7 +8621,7 @@
 		(dnp no)
 		(uuid "90e9438b-aef0-489b-bb67-8de389da6335")
 		(property "Reference" "TONE1"
-			(at 208.28 123.1901 0)
+			(at 200.66 129.5401 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7774,7 +8632,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 208.28 120.6501 0)
+			(at 200.66 127.0001 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7785,7 +8643,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:potentiometer_vert_no_switch"
-			(at 205.74 121.92 0)
+			(at 198.12 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7796,7 +8654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 121.92 0)
+			(at 198.12 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7807,7 +8665,40 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 205.74 121.92 0)
+			(at 198.12 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "RK09L1140A5L"
+			(at 198.12 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Alps"
+			(at 198.12 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 198.12 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7837,7 +8728,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 242.57 86.36 90)
+		(at 234.95 92.71 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7848,7 +8739,7 @@
 		(dnp no)
 		(uuid "955047e0-6725-43a9-82e0-7f8c9120e077")
 		(property "Reference" "D4"
-			(at 240.03 85.0899 90)
+			(at 232.41 91.4399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7859,7 +8750,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 240.03 87.6299 90)
+			(at 232.41 93.9799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7870,7 +8761,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
-			(at 242.57 86.36 0)
+			(at 234.95 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7881,7 +8772,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 242.57 86.36 0)
+			(at 234.95 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7892,7 +8783,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 242.57 86.36 0)
+			(at 234.95 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7903,7 +8794,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 242.57 86.36 0)
+			(at 234.95 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7914,7 +8805,40 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 86.36 0)
+			(at 234.95 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "1N4148-T50A"
+			(at 234.95 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "onsemi"
+			(at 234.95 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 234.95 92.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7941,7 +8865,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 205.74 135.89 180)
+		(at 198.12 142.24 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7952,7 +8876,7 @@
 		(fields_autoplaced yes)
 		(uuid "97bf6142-4e37-4720-915c-6444ddaaabe4")
 		(property "Reference" "R10"
-			(at 208.28 134.6199 0)
+			(at 200.66 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7963,7 +8887,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 208.28 137.1599 0)
+			(at 200.66 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7974,7 +8898,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 205.74 135.89 0)
+			(at 198.12 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7985,7 +8909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 135.89 0)
+			(at 198.12 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7996,7 +8920,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 205.74 135.89 0)
+			(at 198.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 198.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 198.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 198.12 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8023,7 +8980,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 90.17 85.09 0)
+		(at 82.55 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8034,7 +8991,7 @@
 		(fields_autoplaced yes)
 		(uuid "98b6d6b2-7fe7-4df2-8b8f-769da9c30826")
 		(property "Reference" "#PWR07"
-			(at 90.17 91.44 0)
+			(at 82.55 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8045,7 +9002,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 90.17 90.17 0)
+			(at 82.55 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8056,7 +9013,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 85.09 0)
+			(at 82.55 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8067,7 +9024,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 85.09 0)
+			(at 82.55 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8078,7 +9035,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 90.17 85.09 0)
+			(at 82.55 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8102,7 +9059,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:DPDT")
-		(at 55.88 104.14 0)
+		(at 48.26 110.49 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8112,7 +9069,7 @@
 		(dnp yes)
 		(uuid "9c6c859b-c56d-4bf6-bf9a-e366368633c4")
 		(property "Reference" "SW2"
-			(at 54.61 111.76 0)
+			(at 46.99 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8122,7 +9079,7 @@
 			)
 		)
 		(property "Value" "6-pin Footswitch"
-			(at 54.61 109.22 0)
+			(at 46.99 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8133,7 +9090,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-			(at 55.88 104.14 0)
+			(at 48.26 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8144,7 +9101,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 104.14 0)
+			(at 48.26 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8155,7 +9112,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 104.14 0)
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "SF12020DF"
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Alpha"
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "DPDT foot switch. Generics work"
+			(at 48.26 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8194,7 +9184,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 144.78 104.14 90)
+		(at 137.16 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8204,7 +9194,7 @@
 		(dnp no)
 		(uuid "b04d949f-0fce-4862-a90e-b31688d103f8")
 		(property "Reference" "R7"
-			(at 144.78 99.06 90)
+			(at 137.16 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8214,7 +9204,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 144.78 101.6 90)
+			(at 137.16 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8224,7 +9214,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 144.78 104.14 0)
+			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8235,7 +9225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 104.14 0)
+			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8246,7 +9236,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 144.78 104.14 0)
+			(at 137.16 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 137.16 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 137.16 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 137.16 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8273,7 +9296,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 113.03 124.46 180)
+		(at 105.41 130.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8284,7 +9307,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1f64689-6103-4597-84c2-4c284f28802c")
 		(property "Reference" "R5"
-			(at 115.57 123.1899 0)
+			(at 107.95 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8295,7 +9318,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 115.57 125.7299 0)
+			(at 107.95 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8306,7 +9329,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 113.03 124.46 0)
+			(at 105.41 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8317,7 +9340,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 124.46 0)
+			(at 105.41 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8328,7 +9351,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 113.03 124.46 0)
+			(at 105.41 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 105.41 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 105.41 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 105.41 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8355,7 +9411,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 153.67 114.3 180)
+		(at 146.05 120.65 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8366,7 +9422,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5aaf723-8f22-432d-b146-d957463d63f0")
 		(property "Reference" "#PWR012"
-			(at 153.67 107.95 0)
+			(at 146.05 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8377,7 +9433,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 153.67 109.22 0)
+			(at 146.05 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8388,7 +9444,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 114.3 0)
+			(at 146.05 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8399,7 +9455,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 114.3 0)
+			(at 146.05 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8410,7 +9466,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 153.67 114.3 0)
+			(at 146.05 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8434,7 +9490,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:DPDT")
-		(at 238.76 111.76 0)
+		(at 231.14 118.11 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -8445,7 +9501,7 @@
 		(dnp yes)
 		(uuid "bd4dfbba-ad83-4240-a717-9d1040f62e26")
 		(property "Reference" "SW2"
-			(at 237.49 119.38 0)
+			(at 229.87 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8455,7 +9511,7 @@
 			)
 		)
 		(property "Value" "6-pin Footswitch"
-			(at 237.49 116.84 0)
+			(at 229.87 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8466,7 +9522,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-			(at 238.76 111.76 0)
+			(at 231.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8477,7 +9533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 238.76 111.76 0)
+			(at 231.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8488,7 +9544,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 238.76 111.76 0)
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "SF12020DF"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Alpha"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "DPDT foot switch. Generics work"
+			(at 231.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8527,7 +9616,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 55.88 77.47 0)
+		(at 48.26 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8538,7 +9627,7 @@
 		(fields_autoplaced yes)
 		(uuid "be51137b-b5d4-4348-a6d1-f1f5f390d360")
 		(property "Reference" "C12"
-			(at 58.42 75.6538 0)
+			(at 50.8 82.0038 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8549,7 +9638,7 @@
 			)
 		)
 		(property "Value" "1000u"
-			(at 58.42 78.1938 0)
+			(at 50.8 84.5438 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8560,7 +9649,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 55.88 77.47 0)
+			(at 48.26 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8571,7 +9660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 77.47 0)
+			(at 48.26 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8582,7 +9671,40 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 55.88 77.47 0)
+			(at 48.26 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "16PX1000MEFC10X12.5"
+			(at 48.26 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Rubycon"
+			(at 48.26 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 48.26 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8609,7 +9731,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 132.08 109.22 90)
+		(at 124.46 115.57 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -8621,7 +9743,7 @@
 		(fields_autoplaced yes)
 		(uuid "c49d4fee-beb4-48f4-a353-36d9c9323ef0")
 		(property "Reference" "SW1"
-			(at 133.35 109.2199 90)
+			(at 125.73 115.5699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8632,7 +9754,7 @@
 			)
 		)
 		(property "Value" "SPST"
-			(at 133.35 110.4899 90)
+			(at 125.73 116.8399 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8644,7 +9766,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 132.08 109.22 0)
+			(at 124.46 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8655,7 +9777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 109.22 0)
+			(at 124.46 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8666,7 +9788,40 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 132.08 109.22 0)
+			(at 124.46 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "SW-T3-1A-A-A3-S1"
+			(at 124.46 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Adam tech"
+			(at 124.46 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "on-off switch. Generic fine. Body should be ~0.27\"x ~0.52\" x ~0.38\" body."
+			(at 124.46 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8693,7 +9848,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 48.26 109.22 0)
+		(at 40.64 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8704,7 +9859,7 @@
 		(fields_autoplaced yes)
 		(uuid "c516a0a8-43e4-4e04-abee-511ef9ff3a1a")
 		(property "Reference" "#PWR02"
-			(at 48.26 115.57 0)
+			(at 40.64 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8715,7 +9870,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 48.26 114.3 0)
+			(at 40.64 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8726,7 +9881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 109.22 0)
+			(at 40.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8737,7 +9892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 109.22 0)
+			(at 40.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8748,7 +9903,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 48.26 109.22 0)
+			(at 40.64 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8772,7 +9927,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 215.9 106.68 90)
+		(at 208.28 113.03 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8783,7 +9938,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8c68522-e2c0-40b2-933c-d5263517021a")
 		(property "Reference" "C11"
-			(at 215.3539 100.33 90)
+			(at 207.7339 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8793,7 +9948,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 215.3539 102.87 90)
+			(at 207.7339 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8802,8 +9957,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
-			(at 215.9 106.68 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 208.28 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8814,7 +9969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 106.68 0)
+			(at 208.28 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8825,7 +9980,40 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 215.9 106.68 0)
+			(at 208.28 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "EEU-FR1H220"
+			(at 208.28 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Panasonic"
+			(at 208.28 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 208.28 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8852,7 +10040,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 229.87 111.76 270)
+		(at 222.25 118.11 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8863,7 +10051,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf60737f-a83f-4ca2-a702-f841d6064738")
 		(property "Reference" "R11"
-			(at 229.87 106.68 90)
+			(at 222.25 113.03 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8873,7 +10061,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 229.87 109.22 90)
+			(at 222.25 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8883,7 +10071,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 229.87 111.76 0)
+			(at 222.25 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8894,7 +10082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 111.76 0)
+			(at 222.25 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8905,7 +10093,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 229.87 111.76 0)
+			(at 222.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 222.25 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 222.25 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 222.25 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8932,7 +10153,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 139.7 109.22 0)
+		(at 132.08 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8943,7 +10164,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0eecd26-cfa6-4f06-a364-5951c5cc0dd5")
 		(property "Reference" "C5"
-			(at 142.24 107.9562 0)
+			(at 134.62 114.3062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8954,7 +10175,7 @@
 			)
 		)
 		(property "Value" "4.7n"
-			(at 142.24 110.4962 0)
+			(at 134.62 116.8462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8965,7 +10186,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 139.7 109.22 0)
+			(at 132.08 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8976,7 +10197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 109.22 0)
+			(at 132.08 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8987,7 +10208,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 139.7 109.22 0)
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "B32529C1472K000"
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TDK"
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 132.08 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9014,7 +10268,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 113.03 130.81 0)
+		(at 105.41 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9025,7 +10279,7 @@
 		(fields_autoplaced yes)
 		(uuid "d14808bf-3ff3-49be-9ca2-03125aaef2da")
 		(property "Reference" "C3"
-			(at 115.57 128.9938 0)
+			(at 107.95 135.3438 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9036,7 +10290,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 115.57 131.5338 0)
+			(at 107.95 137.8838 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9047,7 +10301,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 113.03 130.81 0)
+			(at 105.41 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9058,7 +10312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 130.81 0)
+			(at 105.41 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9069,7 +10323,40 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 113.03 130.81 0)
+			(at 105.41 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "EEU-FR1H100"
+			(at 105.41 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Panasonic"
+			(at 105.41 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 105.41 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9096,7 +10383,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 205.74 109.22 180)
+		(at 198.12 115.57 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9107,7 +10394,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7ba1b5b-f62c-4be9-9b48-18357e0ca039")
 		(property "Reference" "R9"
-			(at 208.28 107.9499 0)
+			(at 200.66 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9118,7 +10405,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 208.28 110.4899 0)
+			(at 200.66 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9129,7 +10416,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 205.74 109.22 0)
+			(at 198.12 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9140,7 +10427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 109.22 0)
+			(at 198.12 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9151,7 +10438,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 205.74 109.22 0)
+			(at 198.12 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 198.12 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 198.12 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 198.12 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9178,7 +10498,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 223.52 115.57 0)
+		(at 215.9 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9189,7 +10509,7 @@
 		(fields_autoplaced yes)
 		(uuid "db612a3c-b30a-4474-96a3-48b7c1827ded")
 		(property "Reference" "#PWR016"
-			(at 223.52 121.92 0)
+			(at 215.9 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9200,7 +10520,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 223.52 120.65 0)
+			(at 215.9 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9211,7 +10531,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 223.52 115.57 0)
+			(at 215.9 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9222,7 +10542,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 115.57 0)
+			(at 215.9 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9233,7 +10553,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 223.52 115.57 0)
+			(at 215.9 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9257,7 +10577,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 162.56 109.22 0)
+		(at 154.94 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9268,7 +10588,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4002e26-ed57-4a07-a4f0-5192cb05317f")
 		(property "Reference" "C6"
-			(at 165.1 107.9562 0)
+			(at 157.48 114.3062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9279,7 +10599,7 @@
 			)
 		)
 		(property "Value" "470p"
-			(at 165.1 110.4962 0)
+			(at 157.48 116.8462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9290,7 +10610,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 162.56 109.22 0)
+			(at 154.94 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9301,7 +10621,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 109.22 0)
+			(at 154.94 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9312,7 +10632,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 162.56 109.22 0)
+			(at 154.94 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "FKS2D004701A00JSSD"
+			(at 154.94 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "WIMA"
+			(at 154.94 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 154.94 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9339,7 +10692,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 71.12 101.6 90)
+		(at 63.5 107.95 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9350,7 +10703,7 @@
 		(fields_autoplaced yes)
 		(uuid "e403aca4-df3c-4d64-9479-b3cc70e2fbf4")
 		(property "Reference" "R2"
-			(at 71.12 96.52 90)
+			(at 63.5 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9360,7 +10713,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 71.12 99.06 90)
+			(at 63.5 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9370,7 +10723,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 71.12 101.6 0)
+			(at 63.5 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9381,7 +10734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 101.6 0)
+			(at 63.5 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9392,7 +10745,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 71.12 101.6 0)
+			(at 63.5 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 63.5 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 63.5 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 63.5 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9419,7 +10805,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 73.66 77.47 90)
+		(at 66.04 83.82 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9430,7 +10816,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6aa0887-1034-43e6-80d4-0b7fd472979c")
 		(property "Reference" "R13"
-			(at 73.66 72.39 90)
+			(at 66.04 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9440,7 +10826,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 73.66 74.93 90)
+			(at 66.04 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9450,7 +10836,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 73.66 77.47 0)
+			(at 66.04 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9461,7 +10847,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 77.47 0)
+			(at 66.04 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9472,7 +10858,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 73.66 77.47 0)
+			(at 66.04 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 66.04 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 66.04 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 66.04 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9499,7 +10918,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 162.56 111.76 0)
+		(at 154.94 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9510,7 +10929,7 @@
 		(fields_autoplaced yes)
 		(uuid "e821c284-6f75-4cf8-b2b0-a91d39ba698c")
 		(property "Reference" "#PWR013"
-			(at 162.56 118.11 0)
+			(at 154.94 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9521,7 +10940,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 162.56 116.84 0)
+			(at 154.94 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9532,7 +10951,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 111.76 0)
+			(at 154.94 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9543,7 +10962,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 111.76 0)
+			(at 154.94 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9554,7 +10973,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 162.56 111.76 0)
+			(at 154.94 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9578,7 +10997,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 255.27 121.92 0)
+		(at 247.65 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9589,7 +11008,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8507e7a-fea4-4a15-94aa-53448bdafdb7")
 		(property "Reference" "#PWR018"
-			(at 255.27 128.27 0)
+			(at 247.65 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9600,7 +11019,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 255.27 127 0)
+			(at 247.65 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9611,7 +11030,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.27 121.92 0)
+			(at 247.65 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9622,7 +11041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 121.92 0)
+			(at 247.65 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9633,7 +11052,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 255.27 121.92 0)
+			(at 247.65 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9657,7 +11076,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 250.19 90.17 270)
+		(at 242.57 96.52 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9668,7 +11087,7 @@
 		(dnp no)
 		(uuid "e8927363-e47b-42c9-b04c-29b1ccdd5651")
 		(property "Reference" "D3"
-			(at 255.524 89.154 90)
+			(at 247.904 95.504 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9679,7 +11098,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 255.524 91.694 90)
+			(at 247.904 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9690,7 +11109,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 250.19 90.17 0)
+			(at 242.57 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9701,7 +11120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 90.17 0)
+			(at 242.57 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9712,7 +11131,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 250.19 90.17 0)
+			(at 242.57 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9723,7 +11142,40 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 90.17 0)
+			(at 242.57 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "BL-BJU3V1"
+			(at 242.57 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "American Bright Optoelectronics Corporation"
+			(at 242.57 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Choose whatever you want as long as it's a 3mm LED"
+			(at 242.57 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9750,7 +11202,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 113.03 116.84 0)
+		(at 105.41 123.19 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9761,7 +11213,7 @@
 		(dnp no)
 		(uuid "ea74e6b6-f395-47c4-b289-5a22cad2f07c")
 		(property "Reference" "GAIN1"
-			(at 115.57 118.1101 0)
+			(at 107.95 124.4601 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9772,7 +11224,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 115.57 115.5701 0)
+			(at 107.95 121.9201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9783,7 +11235,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:potentiometer_vert_no_switch"
-			(at 113.03 116.84 0)
+			(at 105.41 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9794,7 +11246,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 116.84 0)
+			(at 105.41 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9805,7 +11257,40 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 113.03 116.84 0)
+			(at 105.41 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "RK09L1140A5L"
+			(at 105.41 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Alps"
+			(at 105.41 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 105.41 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9835,7 +11320,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 121.92 104.14 90)
+		(at 114.3 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9845,7 +11330,7 @@
 		(dnp no)
 		(uuid "ebd65496-a896-4470-9caa-e9cab5d8ed37")
 		(property "Reference" "R6"
-			(at 121.92 99.06 90)
+			(at 114.3 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9855,7 +11340,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 121.92 101.6 90)
+			(at 114.3 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9865,7 +11350,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 121.92 104.14 0)
+			(at 114.3 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9876,7 +11361,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 104.14 0)
+			(at 114.3 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9887,7 +11372,40 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 121.92 104.14 0)
+			(at 114.3 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 114.3 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 114.3 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "standard 1/4W generic resistors "
+			(at 114.3 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9914,7 +11432,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:Jack2_off_board_Switch")
-		(at 260.35 115.57 180)
+		(at 252.73 121.92 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9924,7 +11442,7 @@
 		(dnp yes)
 		(uuid "ed4a79b0-a623-4eff-94df-e2035cbd5200")
 		(property "Reference" "J3"
-			(at 260.985 124.46 0)
+			(at 253.365 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9934,7 +11452,7 @@
 			)
 		)
 		(property "Value" "OUT"
-			(at 260.985 121.92 0)
+			(at 253.365 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9944,7 +11462,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 261.112 126.746 0)
+			(at 253.492 133.096 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9955,7 +11473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 119.38 0)
+			(at 252.73 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9966,7 +11484,40 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono/TS), Switched Poles (Normalling)"
-			(at 261.112 108.458 0)
+			(at 253.492 114.808 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "NMJ4HC-S"
+			(at 252.73 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "Neutrik"
+			(at 252.73 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Switch not necessary. Generic is fine"
+			(at 252.73 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9993,7 +11544,7 @@
 	)
 	(symbol
 		(lib_id "RCA_Valve:EB91")
-		(at 128.27 123.19 0)
+		(at 120.65 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10004,7 +11555,7 @@
 		(fields_autoplaced yes)
 		(uuid "f29de7e9-2f03-4d87-b3ea-55124c0cf28e")
 		(property "Reference" "V1"
-			(at 135.89 121.9199 0)
+			(at 128.27 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10015,7 +11566,7 @@
 			)
 		)
 		(property "Value" "EB91"
-			(at 135.89 124.4599 0)
+			(at 128.27 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10026,7 +11577,7 @@
 			)
 		)
 		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
-			(at 128.27 123.19 0)
+			(at 120.65 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10037,7 +11588,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 123.19 0)
+			(at 120.65 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10048,7 +11599,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 123.19 0)
+			(at 120.65 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 120.65 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 120.65 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 120.65 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10090,7 +11674,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 78.74 85.09 0)
+		(at 71.12 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10101,7 +11685,7 @@
 		(fields_autoplaced yes)
 		(uuid "f36884fe-b21d-4772-8f50-81dc60720a45")
 		(property "Reference" "#PWR06"
-			(at 78.74 91.44 0)
+			(at 71.12 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10112,7 +11696,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 78.74 90.17 0)
+			(at 71.12 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10123,7 +11707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 85.09 0)
+			(at 71.12 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10134,7 +11718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 85.09 0)
+			(at 71.12 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10145,7 +11729,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 78.74 85.09 0)
+			(at 71.12 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10169,7 +11753,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 97.79 104.14 0)
+		(at 90.17 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10179,7 +11763,7 @@
 		(dnp no)
 		(uuid "f534e8aa-1869-48b3-bbd0-344441114584")
 		(property "Reference" "U1"
-			(at 98.044 104.14 0)
+			(at 90.424 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10189,7 +11773,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 97.79 99.314 0)
+			(at 90.17 105.664 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10199,7 +11783,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
-			(at 97.79 104.14 0)
+			(at 90.17 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10210,7 +11794,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 97.79 104.14 0)
+			(at 90.17 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10221,7 +11805,40 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 97.79 104.14 0)
+			(at 90.17 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "TL072IP"
+			(at 90.17 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TI"
+			(at 90.17 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" "Avoid generics. Buy TI"
+			(at 90.17 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10266,7 +11883,7 @@
 	)
 	(symbol
 		(lib_id "RCA_Valve:EB91")
-		(at 67.31 81.28 0)
+		(at 59.69 87.63 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10277,7 +11894,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6d03428-e7a9-43a1-b806-cc875e501fb0")
 		(property "Reference" "V2"
-			(at 71.12 80.0099 0)
+			(at 63.5 86.3599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10289,7 +11906,7 @@
 			)
 		)
 		(property "Value" "EB91"
-			(at 71.12 82.5499 0)
+			(at 63.5 88.8999 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10301,7 +11918,7 @@
 			)
 		)
 		(property "Footprint" "Valves_complete:B7G (7 Pin Mini)-B9A-shield-mount"
-			(at 67.31 81.28 0)
+			(at 59.69 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10312,7 +11929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 81.28 0)
+			(at 59.69 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10323,7 +11940,40 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 81.28 0)
+			(at 59.69 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" ""
+			(at 59.69 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" ""
+			(at 59.69 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 59.69 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10365,7 +12015,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 215.9 121.92 0)
+		(at 208.28 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10376,7 +12026,7 @@
 		(fields_autoplaced yes)
 		(uuid "f70f9cf4-2c88-42e2-9d0c-1fb0ade05086")
 		(property "Reference" "C9"
-			(at 218.44 120.6562 0)
+			(at 210.82 127.0062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10387,7 +12037,7 @@
 			)
 		)
 		(property "Value" "33n"
-			(at 218.44 123.1962 0)
+			(at 210.82 129.5462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10398,7 +12048,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 215.9 121.92 0)
+			(at 208.28 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10409,7 +12059,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 121.92 0)
+			(at 208.28 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10420,7 +12070,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 215.9 121.92 0)
+			(at 208.28 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG Part" "B32529C0333K189"
+			(at 208.28 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG" "TDK"
+			(at 208.28 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 208.28 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -1,6 +1,6 @@
 *.lck
-*-backups/
-production/backups/
+*backups/
 fp-info-cache
 .history/
 \#auto*
+*_backup.*
